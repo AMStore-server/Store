@@ -18,5 +18,15 @@
     "MessaggioAPP": "",
     "Timestamp": "29/10/2024 23:35:51",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "TRUE",
+    "MessaggioLogInAccount": "Errore nel recupero degli utenti",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "29/10/2024 23:35:57",
+    "Username": "UTENTE"
   }
 ]
