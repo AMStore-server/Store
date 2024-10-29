@@ -5,7 +5,7 @@
       "x64": "https://devuploads.com/44lzwotrhp5v",
       "x32": "https://devuploads.com/1uje6yygo25j"
     },
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Adobe/acrobatpro.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/acrobatpro.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Acrobat Pro v24.003.20112",
     "MRicerca": "Adobe",
@@ -15,7 +15,7 @@
   {
     "Nome": "Adobe Photoshop",
     "Link": "https://devuploads.com/0qxwr3b3ibfx",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Adobe/Photoshop.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/Photoshop.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Photoshop 2024 v.25.12.0.806",
     "MRicerca": "Adobe"
@@ -23,7 +23,7 @@
   {
     "Nome": "Adobe Reader DC",
     "Link": "https://devuploads.com/hr6huumz22by",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Adobe/Reader.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/Reader.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Reader DC",
     "MRicerca": "Adobe"
@@ -31,7 +31,7 @@
   {
     "Nome": "Adobe Illustrator",
     "Link": "https://devuploads.com/nh3tpz0ba9c5",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Adobe/illustrator.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/illustrator.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Illustrator 2024 v28.7.1.142",
     "MRicerca": "Adobe"
@@ -39,7 +39,7 @@
   {
     "Nome": "Adobe Premiere Pro",
     "Link": "https://devuploads.com/u2ja2i63psh6",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Adobe/premiere.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/premiere.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Premiere Pro 2024 v24.4.1.002",
     "MRicerca": "Adobe"
@@ -47,7 +47,7 @@
   {
     "Nome": "Adobe InDesign",
     "Link": "https://devuploads.com/nzrhgxyu1b63",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Adobe/b63ba1c5-22d8-4bfb-b784-8b3a28b820db%20(1).png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/b63ba1c5-22d8-4bfb-b784-8b3a28b820db%20(1).png",
     "Sezione": "Adobe",
     "Tooltip": "Adobe InDesign 2024 v19.5.0.084",
     "MRicerca": "Adobe"
@@ -55,7 +55,7 @@
   {
     "Nome": "Adobe Lightroom Classic",
     "Link": "https://devuploads.com/64dmlwznnqdr",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/refs/heads/main/Immagini/Adobe/lightroom.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Adobe/lightroom.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Lightroom Classic v13.4.0.202406181129",
     "MRicerca": "Adobe"
@@ -63,7 +63,7 @@
   {
     "Nome": "Adobe After Effects",
     "Link": "https://devuploads.com/mima169p81wm",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/refs/heads/main/Immagini/Adobe/aftereffects.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Adobe/aftereffects.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe After Effects 2024_v.24.6.2.002",
     "MRicerca": "Adobe"
@@ -72,7 +72,7 @@
     "Nome": "Adobe Master Collection",
     "Link": "https://telegra.ph/AIMODS-Adobe-Master-Collection-2024-v8-10-02",
     "LinkR": "https://devuploads.com/i4s15t10rq81",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Adobe/adobemastercollection.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/adobemastercollection.png",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Master Collection 2024 v8",
     "MRicerca": "Adobe"
@@ -80,7 +80,7 @@
   {
     "Nome": "WinToUsb",
     "Link": "https://devuploads.com/k9uy80fy2mjh",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/WinToUSB.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/WinToUSB.jpg",
     "Sezione": "Altro",
     "Tooltip": "WinToUsb v8.8",
     "MRicerca": "Altro"
@@ -88,7 +88,7 @@
   {
     "Nome": "Rhinoceros",
     "Link": "https://devuploads.com/9xdolsczvkw4",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/Rhinoceros.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/Rhinoceros.jpg",
     "Sezione": "Altro",
     "Tooltip": "Rhinoceros v8.6.24101.5001",
     "MRicerca": "Altro"
@@ -96,7 +96,7 @@
   {
     "Nome": "Intellij",
     "Link": "https://devuploads.com/ri9msx4rpkl0",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/Intellij.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/Intellij.jpg",
     "Sezione": "Altro",
     "Tooltip": "JetBrains Intellij IDEA Ultimate v2024.1",
     "MRicerca": "Altro"
@@ -104,7 +104,7 @@
   {
     "Nome": "Wise Care",
     "Link": "https://devuploads.com/76t2owt18wo1",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/wise.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/wise.jpg",
     "Sezione": "Altro",
     "Tooltip": "Wise Care 365 Pro v6.7.2.646",
     "MRicerca": "Altro"
@@ -112,7 +112,7 @@
   {
     "Nome": "Media Monkey",
     "Link": "https://devuploads.com/rekhmdck974h",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/mediamonkey.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/mediamonkey.jpg",
     "Sezione": "Altro",
     "Tooltip": "Media Monkey Gold v2024.0.0.3019",
     "MRicerca": "Altro"
@@ -120,7 +120,7 @@
   {
     "Nome": "DaVinci",
     "Link": "https://devuploads.com/g6bcwha9l6hv",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/davinci.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/davinci.jpg",
     "Sezione": "Altro",
     "Tooltip": "DaVinci Resolve Studio 19.0.0.25",
     "MRicerca": "Altro"
@@ -128,7 +128,7 @@
   {
     "Nome": "64Gram",
     "Link": "https://devuploads.com/lmw8kmwaz319",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Social/64gram.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Social/64gram.jpg",
     "Sezione": "Altro",
     "Tooltip": "64Gram",
     "MRicerca": "Altro"
@@ -136,7 +136,7 @@
   {
     "Nome": "Mountain Duck",
     "Link": "https://devuploads.com/h79niks3kv8z",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/mountainduck.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/mountainduck.jpg",
     "Sezione": "Altro",
     "Tooltip": "Mountain Duck v4.16.0.22153",
     "MRicerca": "Altro"
@@ -144,7 +144,7 @@
   {
     "Nome": "NetSpot",
     "Link": "https://devuploads.com/vhk49q5bfmb2",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/netspot.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/netspot.jpg",
     "Sezione": "Altro",
     "Tooltip": "NetSpot Multilingual v3.1.0.478",
     "MRicerca": "Altro"
@@ -152,7 +152,7 @@
   {
     "Nome": "Ekahau",
     "Link": "https://devuploads.com/5s0xeca5gmeu",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/ekahau.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/ekahau.jpg",
     "Sezione": "Altro",
     "Tooltip": "Ekahau Ai Pro 11.6.0",
     "MRicerca": "Altro"
@@ -160,7 +160,7 @@
   {
     "Nome": "Bandicam",
     "Link": "https://devuploads.com/n0yoi8r0qtxs",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/bandicam.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/bandicam.png",
     "Sezione": "Altro",
     "Tooltip": "Bandicam v7.1.3.2456",
     "MRicerca": "Altro"
@@ -168,7 +168,7 @@
   {
     "Nome": "VMWare",
     "Link": "https://devuploads.com/t8i9c0fvd7db",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/GestioneHDD-SSD/vmware.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/vmware.jpg",
     "Sezione": "Altro",
     "Tooltip": "VMWare Workstation Pro 17.6.0.24238078",
     "MRicerca": "Altro"
@@ -176,7 +176,7 @@
   {
     "Nome": "Lightburn",
     "Link": "https://devuploads.com/gssd3vrq5zvw",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/lightburn.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/lightburn.jpg",
     "Sezione": "Altro",
     "Tooltip": "LightBurn v1.6.03",
     "MRicerca": "Altro"
@@ -184,7 +184,7 @@
   {
     "Nome": "Malwerbytes",
     "Link": "https://devuploads.com/6r8q9eo2jp3d",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Antivirus/Malwerbytes.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Antivirus/Malwerbytes.jpg",
     "Sezione": "Antivirus",
     "Tooltip": "Malwerbytes",
     "MRicerca": "Antivirus"
@@ -192,7 +192,7 @@
   {
     "Nome": "Kaspersky",
     "Link": "https://devuploads.com/io1rr5jbsvjv",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Antivirus/Kaspersky.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Antivirus/Kaspersky.jpg",
     "Sezione": "Antivirus",
     "Tooltip": "Kaspersky",
     "MRicerca": "Antivirus"
@@ -200,7 +200,7 @@
   {
     "Nome": "Bitdefender",
     "Link": "https://devuploads.com/b3cjct4khdqp",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Antivirus/bitdefender.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Antivirus/bitdefender.jpg",
     "Sezione": "Antivirus",
     "Tooltip": "Bitdefender Total Security",
     "MRicerca": "Antivirus"
@@ -208,7 +208,7 @@
   {
     "Nome": "Avast Premium Security",
     "Link": "https://devuploads.com/0303n29teh7u",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Antivirus/avast%20premium%20security.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Antivirus/avast%20premium%20security.png",
     "Sezione": "Antivirus",
     "Tooltip": "Avast Premium Security v24.9.9452.875",
     "MRicerca": "Antivirus"
@@ -217,7 +217,7 @@
     "Nome": "ESET Endpoint Security",
     "Link": "https://devuploads.com/fft9hwh3cdnz",
     "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Antivirus/ESET%20Endpoint%20Securityf.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Antivirus/ESET%20Endpoint%20Securityf.png",
     "Sezione": "Antivirus",
     "Descrizione": null,
     "Tooltip": "ESET Endpoint Security v11.1.2052.0",
@@ -226,7 +226,7 @@
   {
     "Nome": "Autodesk Revit",
     "Link": "https://devuploads.com/1sukco621r70",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Autodesk/revit.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Autodesk/revit.jpg",
     "Sezione": "Autodesk",
     "Tooltip": "Autodesk Revit 2025",
     "MRicerca": "Autodesk"
@@ -234,7 +234,7 @@
   {
     "Nome": "Autodesk AutoCAD",
     "Link": "https://devuploads.com/n2zng89rr6hw",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Autodesk/Autocad.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Autodesk/Autocad.jpg",
     "Sezione": "Autodesk",
     "Tooltip": "Autodesk AutoCAD 2025.0.1 Build v72.0.0",
     "MRicerca": "Autodesk"
@@ -242,7 +242,7 @@
   {
     "Nome": "Autodesk Maya",
     "Link": "https://devuploads.com/w5cug44ntqx5",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Autodesk/maya.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Autodesk/maya.jpg",
     "Sezione": "Autodesk",
     "Tooltip": "Autodesk Maya 2025",
     "MRicerca": "Autodesk"
@@ -250,7 +250,7 @@
   {
     "Nome": "Enscape 3D",
     "Link": "https://devuploads.com/8sbvdqj9r1bc",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Autodesk/enscape.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Autodesk/enscape.jpg",
     "Sezione": "Autodesk",
     "Tooltip": "Enscape 3D v4.0.1.48 for Revit",
     "MRicerca": "Autodesk"
@@ -259,7 +259,7 @@
     "Nome": "Autodesk Inventor",
     "Link": "https://devuploads.com/x1on33ux4w3g",
     "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Autodesk/Inventor.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Autodesk/Inventor.png",
     "Sezione": "Autodesk",
     "Descrizione": null,
     "Tooltip": "Autodesk Inventor",
@@ -269,7 +269,7 @@
     "Nome": "Freemake Vdeo Converter",
     "Link": "https://devuploads.com/22n8f1jrp3k3",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/default/Freemake.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/default/Freemake.png",
     "Sezione": "Convertitore",
     "Descrizione": "Freemake Vdeo Converter",
     "Tooltip": "",
@@ -278,7 +278,7 @@
   {
     "Nome": "StreamFAB",
     "Link": "https://devuploads.com/vk2aj211j1nn",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Downloader/DVDFab.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/DVDFab.jpg",
     "Sezione": "Downloader",
     "Tooltip": "Streamfab 6.1.9.4",
     "MRicerca": "Downloader"
@@ -286,7 +286,7 @@
   {
     "Nome": "IDM",
     "Link": "https://devuploads.com/4z5a2mnn8p1s",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Downloader/IDM.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/IDM.jpg",
     "Sezione": "Downloader",
     "Tooltip": "IDM v6.42 b23",
     "MRicerca": "Downloader",
@@ -296,14 +296,14 @@
   {
     "Nome": "IDM Portable",
     "Link": "https://devuploads.com/prhag6vpiuqj",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Downloader/IDM.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/IDM.jpg",
     "Sezione": "Downloader",
     "Tooltip": "IDM v6.42 Portable"
   },
   {
     "Nome": "iTubeGo Musify",
     "Link": "https://devuploads.com/mymzeoplsshx",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Downloader/Musify.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/Musify.jpg",
     "Sezione": "Downloader",
     "Tooltip": "iTubeGo Musify v3.6.0",
     "MRicerca": "Downloader"
@@ -311,7 +311,7 @@
   {
     "Nome": "4K Video Downloader Plus",
     "Link": "https://devuploads.com/1hd2s25nol1j",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Downloader/4kdownloader.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/4kdownloader.jpg",
     "Sezione": "Downloader",
     "Tooltip": "4K Video Downloader Plus v1.6.0.0085",
     "MRicerca": "Downloader"
@@ -319,7 +319,7 @@
   {
     "Nome": "KeepStreams",
     "Link": "https://devuploads.com/jca4ilc524ry",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Downloader/keepstreams.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/keepstreams.jpg",
     "Sezione": "Downloader",
     "Tooltip": "KeepStreams v1.2.2.2",
     "MRicerca": "Downloader"
@@ -327,7 +327,7 @@
   {
     "Nome": "Y2mate Downloader",
     "Link": "https://devuploads.com/ujb5gi8hbhwd",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Downloader/y2matedownloader.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/y2matedownloader.jpg",
     "Sezione": "Downloader",
     "Tooltip": "Y2mate Downloader v1.2.3.4",
     "MRicerca": "Downloader"
@@ -335,7 +335,7 @@
   {
     "Nome": "MusicFab",
     "Link": "https://devuploads.com/plqcfbf5xuth",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Downloader/musicfab.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/musicfab.png",
     "Sezione": "Downloader",
     "Tooltip": "MusicFab v1.0.4.3",
     "MRicerca": "Downloader"
@@ -343,7 +343,7 @@
   {
     "Nome": "SpotifyDownloader",
     "Link": "https://devuploads.com/vtj4u0r105e1",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Downloader/spotifydownloader.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/spotifydownloader.jpg",
     "Sezione": "Downloader",
     "Tooltip": "SpotifyDownloader",
     "MRicerca": "Downloader"
@@ -351,7 +351,7 @@
   {
     "Nome": "YT Saver",
     "Link": "https://devuploads.com/ycawcrnwx3wj",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Downloader/YTsaver.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/YTsaver.png",
     "Sezione": "Downloader",
     "Tooltip": "YT Saver v9.0.0",
     "MRicerca": "Downloader",
@@ -361,7 +361,7 @@
   {
     "Nome": "UniFab",
     "Link": "https://devuploads.com/bzeyzplxcm2g",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Editing/unifab.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/unifab.jpg",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "UniFab v2.0.2.1",
     "MRicerca": "Gestione Foto/Video e Editing"
@@ -369,7 +369,7 @@
   {
     "Nome": "CorelDraw Technical Suite",
     "Link": "https://devuploads.com/jc60551uvyff",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/coreldraw.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/coreldraw.jpg",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "CorelDraw Technical Suite 2024 v25.0.0.230",
     "MRicerca": "Gestione Foto/Video e Editing"
@@ -377,7 +377,7 @@
   {
     "Nome": "Wondershare Filmora",
     "Link": "https://devuploads.com/zeh2je4ljgj9",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Editing/wondershare.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/wondershare.jpg",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "Wondershare Filmora v13.6.6.8453",
     "MRicerca": "Gestione Foto/Video e Editing"
@@ -385,7 +385,7 @@
   {
     "Nome": "Prima Cartoonizer",
     "Link": "https://devuploads.com/bgl0drn5wuqh",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Editing/primacartoonizer.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/primacartoonizer.jpg",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "Prima Cartoonizer v5.2.7",
     "MRicerca": "Gestione Foto/Video e Editing"
@@ -393,7 +393,7 @@
   {
     "Nome": "AquaSoft Stages",
     "Link": "https://devuploads.com/cuwffg230x6d",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Editing/aquasoftstager.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/aquasoftstager.jpg",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "AquaSoft Stages v15.2.05",
     "MRicerca": "Gestione Foto/Video e Editing"
@@ -401,7 +401,7 @@
   {
     "Nome": "EaseUS Video Editor",
     "Link": "https://devuploads.com/n42mfzgilz1v",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Editing/easeusvideoeditor.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/easeusvideoeditor.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "EaseUS Video Editor Pro 2.4.0 Build 20240910 ",
     "MRicerca": "Gestione Foto/Video e Editing"
@@ -409,7 +409,7 @@
   {
     "Nome": "Face Rig",
     "Link": "https://telegra.ph/FaceRig-Pro-v1312-06-19",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/refs/heads/main/Immagini/Editing/facerig.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Editing/facerig.jpg",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "Face Rig",
     "MRicerca": "Gestione Foto/Video e Editing"
@@ -417,7 +417,7 @@
   {
     "Nome": "CyberLink PowerDirector",
     "Link": "https://devuploads.com/hseo14lhr1lv",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Editing/cyberlink%20power%20director%20ultimate.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/cyberlink%20power%20director%20ultimate.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": " CyberLink PowerDirector Ultimate 2024 v23.0.0828.0",
     "MRicerca": "Gestione Foto/Video e Editing"
@@ -426,7 +426,7 @@
     "Nome": "SketchUp",
     "Link": "https://devuploads.com/je103841mm6a",
     "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Editing/SketchUp.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/SketchUp.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Descrizione": null,
     "Tooltip": "SketchUp",
@@ -435,7 +435,7 @@
   {
     "Nome": "EaseUS Partition Master",
     "Link": "https://devuploads.com/390ouiys1xo4",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/GestioneHDD-SSD/easeus.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/easeus.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "EaseUS Partition Master v18.5.0 Build 20240321",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
@@ -443,7 +443,7 @@
   {
     "Nome": "Recuva Business Edition",
     "Link": "https://devuploads.com/79qqfzhga9xy",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/GestioneHDD-SSD/Recuva.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/Recuva.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Recuva Business Edition v1.53.2095",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
@@ -451,7 +451,7 @@
   {
     "Nome": "Glary Utilities Pro",
     "Link": "https://devuploads.com/shye8kzui1bk",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/glaryutilites.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/glaryutilites.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Glary Utilities Pro v6.14.0.18",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
@@ -459,7 +459,7 @@
   {
     "Nome": "DVDFab",
     "Link": "https://devuploads.com/shihaucup5p7",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/dvdfab.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/dvdfab.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "DVDFab v13.0.2.5 x64",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
@@ -467,7 +467,7 @@
   {
     "Nome": "Driver Easy",
     "Link": "https://devuploads.com/cqy22pqefcpq",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/DriverEasy.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/DriverEasy.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Driver Easy Professional v6.0.025691",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
@@ -475,7 +475,7 @@
   {
     "Nome": "WallpaperEngine",
     "Link": "https://devuploads.com/kex8xbqbfeyv",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/GestioneHDD-SSD/wallpaperengine.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/wallpaperengine.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Wallpaper Engine",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
@@ -483,7 +483,7 @@
   {
     "Nome": "Ashampoo Driver Updater",
     "Link": "https://devuploads.com/kiym7p4z0so3",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/GestioneHDD-SSD/ashampoo.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/ashampoo.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Ashampoo Driver Updater 1.6.2",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
@@ -491,7 +491,7 @@
   {
     "Nome": "Revo Unistaller",
     "Link": "https://devuploads.com/oep8gq4enxd9",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/GestioneHDD-SSD/revounistaller.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/revounistaller.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Revo Uninstaller Pro 5.3",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
@@ -499,7 +499,7 @@
   {
     "Nome": "CCleaner",
     "Link": "https://devuploads.com/5nsoz5ed16gl",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/GestioneHDD-SSD/ccleaner.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/ccleaner.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "CCleaner Professional v6.25",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
@@ -507,7 +507,7 @@
   {
     "Nome": "StartAllBack",
     "Link": "https://devuploads.com/vufzn4p59i3b",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/GestioneHDD-SSD/startallback.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/startallback.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "StartAllBack v3.8.8.5157",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
@@ -515,7 +515,7 @@
   {
     "Nome": "EaseUS PCTrans",
     "Link": "https://devuploads.com/gdwqc6sgq3u5",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/refs/heads/main/Immagini/GestioneHDD-SSD/easeustodoptrans.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/GestioneHDD-SSD/easeustodoptrans.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "EaseUS Todo PCTrans v13.17",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
@@ -523,7 +523,7 @@
   {
     "Nome": "Kingdom Hearts HD",
     "Link": "https://devuploads.com/ehgdpbt3bjzc",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/KingdomHeartsHD.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/KingdomHeartsHD.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Kingdom Hearts HD 2.8 Final Chapter Prologue",
     "MRicerca": "Giochi"
@@ -531,7 +531,7 @@
   {
     "Nome": "Grand Theft Auto V",
     "Link": "https://devuploads.com/7jsijapl15cu",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/refs/heads/main/Immagini/Games/gtaV.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Games/gtaV.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Grand Theft Auto V",
     "MRicerca": "Giochi"
@@ -539,7 +539,7 @@
   {
     "Nome": "Marvels Spider-Man Remastered",
     "Link": "https://telegra.ph/Marvels-Spider-Man-Remastered-V181210--DLC--Correzione-SSE-06-11",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/spiderman.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/spiderman.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Marvels Spider-Man Remastered V1.812.1.0 + DLC + Correzione SSE",
     "MRicerca": "Giochi"
@@ -547,7 +547,7 @@
   {
     "Nome": "Life is Strange Before The Storm",
     "Link": "https://telegra.ph/Life-Is-Strange-Before-The-Storm-06-14",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/lifeisstrange.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/lifeisstrange.jpg",
     "Sezione": "Giochi",
     "Tooltip": "LIS: Before The Storm",
     "MRicerca": "Giochi"
@@ -555,7 +555,7 @@
   {
     "Nome": "Horizon Forbidden West",
     "Link": "https://devuploads.com/7l7zir8jloun",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/horizonforbiddenwest.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/horizonforbiddenwest.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Horizon Forbidden West",
     "MRicerca": "Giochi"
@@ -563,7 +563,7 @@
   {
     "Nome": "Football Manager 2023",
     "Link": "https://devuploads.com/q046k792f9vl",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/footballmanager2023.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/footballmanager2023.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Football Manager 2023",
     "MRicerca": "Giochi"
@@ -571,7 +571,7 @@
   {
     "Nome": "Hearts Of Iron IV",
     "Link": "https://telegra.ph/Hearts-Of-Iron-IV-v1146--all-DLC-06-18",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/heartsofiron.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/heartsofiron.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Hearts Of Iron IV v1.14.6 + all DLC",
     "MRicerca": "Giochi"
@@ -579,7 +579,7 @@
   {
     "Nome": "Supermarket Simulator",
     "Link": "https://devuploads.com/wjs6f69gyacj",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/supermarketsimulator.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/supermarketsimulator.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Supermarket Simulator v0.2.1.2",
     "MRicerca": "Giochi"
@@ -587,7 +587,7 @@
   {
     "Nome": "Euro Truck Simulator 2",
     "Link": "https://devuploads.com/1b1km9u0r76g",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/eurotrucksimulator.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/eurotrucksimulator.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Euro Truck Simulator 2 v1.50.1.0s + 87 DLCs",
     "MRicerca": "Giochi"
@@ -595,7 +595,7 @@
   {
     "Nome": "Far Cry 5",
     "Link": "https://devuploads.com/pjz1k3kpgsjv",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/farcry5.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/farcry5.png",
     "Sezione": "Giochi",
     "Tooltip": "Far Cry 5 v1.011 + 5 DLCs",
     "MRicerca": "Giochi"
@@ -603,7 +603,7 @@
   {
     "Nome": "DIRT 5 Year One Edition",
     "Link": "https://devuploads.com/l1b6491ho8l6",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/dirt5.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/dirt5.jpg",
     "Sezione": "Giochi",
     "Tooltip": "DIRT 5 Year One Edition v1.2767.60.0 + DLCs",
     "MRicerca": "Giochi"
@@ -611,7 +611,7 @@
   {
     "Nome": "The Casting of Frank Stone",
     "Link": "https://devuploads.com/yya3r4q3jjtw",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/the%20casting%20of%20frank%20stone.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/the%20casting%20of%20frank%20stone.jpg",
     "Sezione": "Giochi",
     "Tooltip": "The Casting of Frank Stone Deluxe Edition + 2 DLCs",
     "MRicerca": "Giochi"
@@ -619,7 +619,7 @@
   {
     "Nome": "Life Is Strange 2",
     "Link": "https://devuploads.com/e7hmldkob48m",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/refs/heads/main/Immagini/Games/lifeisstrange2.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Games/lifeisstrange2.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Life Is Strange 2",
     "MRicerca": "Giochi"
@@ -627,7 +627,7 @@
   {
     "Nome": "Palworld",
     "Link": "https://telegra.ph/Palworld-v03657672-09-17",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/Palworld.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Palworld.png",
     "Sezione": "Giochi",
     "Tooltip": "Palworld v0.3.6.57672",
     "MRicerca": "Giochi"
@@ -635,7 +635,7 @@
   {
     "Nome": "Enotria",
     "Link": "https://devuploads.com/7sgzren8qaju",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/enotria.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/enotria.png",
     "Sezione": "Giochi",
     "Tooltip": "Enotria",
     "MRicerca": "Giochi"
@@ -643,7 +643,7 @@
   {
     "Nome": "Silent Hill 2",
     "Link": "https://devuploads.com/ask4manf1zqq",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/silenthill2.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/silenthill2.png",
     "Sezione": "Giochi",
     "Tooltip": "Silent Hill 2: Digital Deluxe Edition – v1.1.236.114 + 4 DLCs/Bonuses",
     "MRicerca": "Giochi"
@@ -651,7 +651,7 @@
   {
     "Nome": "DRAGON BALL Sparking ZERO",
     "Link": "https://devuploads.com/scm25orkavdf",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Games/dragonballsparkingzero.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/dragonballsparkingzero.png",
     "Sezione": "Giochi",
     "Tooltip": "DRAGON BALL: Sparking! ZERO, v1003.003.003.003.002 + 5 DLCs + Windows 7 Fix",
     "MRicerca": "Giochi"
@@ -659,7 +659,7 @@
   {
     "Nome": "Topaz Photo AI",
     "Link": "https://devuploads.com/ejdrv7cqsqyx",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Altro/topaz.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/topaz.jpg",
     "Sezione": "IA",
     "Tooltip": "Topaz Photo AI",
     "MRicerca": "IA"
@@ -667,7 +667,7 @@
   {
     "Nome": "Topaz Gigapixel AI",
     "Link": "https://devuploads.com/k885uxzfnonp",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/AI/topazgigapixel.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/AI/topazgigapixel.jpg",
     "Sezione": "IA",
     "Tooltip": "Topaz Gigapixel AI v7.2.1",
     "MRicerca": "IA"
@@ -675,7 +675,7 @@
   {
     "Nome": "Generatore Immagini",
     "Link": "https://devuploads.com/vfyyq5vqbupk",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/AI/ai.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/AI/ai.jpg",
     "Sezione": "IA",
     "Tooltip": "Generatore Immagini AIMODS",
     "MRicerca": "IA"
@@ -683,7 +683,7 @@
   {
     "Nome": "IObit SystemCare",
     "Link": "https://devuploads.com/50973sd2nuio",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Iobit/advancesystem.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Iobit/advancesystem.jpg",
     "Sezione": "IObit",
     "Tooltip": "Advanced SystemCare Pro v17.6.0.322",
     "MRicerca": "IObit"
@@ -691,7 +691,7 @@
   {
     "Nome": "IObit Driver Booster",
     "Link": "https://devuploads.com/9q7muxlw3nbb",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Iobit/driverbooster.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Iobit/driverbooster.jpg",
     "Sezione": "IObit",
     "Tooltip": "Iobit Driver Booster Pro v12.0.0.308",
     "MRicerca": "IObit"
@@ -699,7 +699,7 @@
   {
     "Nome": "IObit Unistaller",
     "Link": "https://devuploads.com/jkjobexej60j",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Iobit/unistaller.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Iobit/unistaller.jpg",
     "Sezione": "IObit",
     "Tooltip": "IObit Uninstaller Pro v13.6.0.5",
     "MRicerca": "IObit"
@@ -707,7 +707,7 @@
   {
     "Nome": "IObit Smart Defrag",
     "Link": "https://devuploads.com/g35xo5kzs93a",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Iobit/smartdefrag.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Iobit/smartdefrag.jpg",
     "Sezione": "IObit",
     "Tooltip": "IObit Smart Defrag Pro v10.1.0.419",
     "MRicerca": null
@@ -715,7 +715,7 @@
   {
     "Nome": "IObit Software Updater",
     "Link": "https://devuploads.com/69r1u6kcky00",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Iobit/softwareupdater.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Iobit/softwareupdater.jpg",
     "Sezione": "IObit",
     "Tooltip": "IObit Software Updater Pro v7.1.121",
     "MRicerca": "IObit"
@@ -723,7 +723,7 @@
   {
     "Nome": "IObit Malware Fighter",
     "Link": "https://devuploads.com/son0sdn5mqfo",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Iobit/IObit%20Malware%20Fighter%20Pro.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Iobit/IObit%20Malware%20Fighter%20Pro.png",
     "Sezione": "IObit",
     "Tooltip": "IObit Malware Fighter Pro v11.4.0.1360",
     "MRicerca": "IObit"
@@ -731,7 +731,7 @@
   {
     "Nome": "Spotify",
     "Link": "https://devuploads.com/daj1coo18x4o",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Musica/Spotify.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Musica/Spotify.jpg",
     "Sezione": "Musica",
     "Tooltip": "Spotify v1.2.45.454",
     "MRicerca": "Musica",
@@ -741,7 +741,7 @@
   {
     "Nome": "Spotube",
     "Link": "https://devuploads.com/rdgptz26r2zx",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Musica/Spottube.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Musica/Spottube.jpg",
     "Sezione": "Musica",
     "Tooltip": "Spotube v3.8.1",
     "MRicerca": "Musica, Spotify"
@@ -749,7 +749,7 @@
   {
     "Nome": "Office Premium",
     "Link": "https://devuploads.com/bix9b7odmekc",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Office/OfficeSuite.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Office/OfficeSuite.jpg",
     "Sezione": "Office",
     "Tooltip": "OfficeSuite Premium v8.90.57422",
     "MRicerca": "Office"
@@ -757,7 +757,7 @@
   {
     "Nome": "PassFab",
     "Link": "https://devuploads.com/hukvaf6f0rvq",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Office/passfabexcel.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Office/passfabexcel.jpg",
     "Sezione": "Office",
     "Tooltip": "PassFab for Excel v8.5.11",
     "MRicerca": "Office"
@@ -765,7 +765,7 @@
   {
     "Nome": "WinHubX",
     "Link": "https://github.com/Italian-Developer/WinHubX/releases/download/WinHubX/WinHubX.exe",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Tool-AIMODS/WinHubX.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/WinHubX.jpg",
     "Sezione": "Tools AIMODS",
     "Tooltip": "WinHubX v.2.4.1.1",
     "MRicerca": "Tools AIMODS, Office"
@@ -773,7 +773,7 @@
   {
     "Nome": "Fix Licenza",
     "Link": "https://devuploads.com/tnxey5xkoxiv",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Tool-AIMODS/FixLicense.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/FixLicense.jpg",
     "Sezione": "Tools AIMODS",
     "Tooltip": "Fix Licenza",
     "MRicerca": "Tools AIMODS"
@@ -781,7 +781,7 @@
   {
     "Nome": "RadioWindows",
     "Link": "https://devuploads.com/5fccbiupg8zg",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Tool-AIMODS/radio.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/radio.png",
     "Sezione": "Tools AIMODS",
     "Tooltip": "RadioWindows v.0.0.0.0",
     "MRicerca": "Tools AIMODS"
@@ -789,7 +789,7 @@
   {
     "Nome": "DataLock",
     "Link": "https://devuploads.com/8t0g8x8mpsrz",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Tool-AIMODS/datalock.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/datalock.png",
     "Sezione": "Tools AIMODS",
     "Tooltip": "DataLock v.0.0.0.0",
     "MRicerca": "Tools AIMODS"
@@ -797,7 +797,7 @@
   {
     "Nome": "AIMODS-Bypass",
     "Link": "https://devuploads.com/p9tr1uiazm2u",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/Tool-AIMODS/aimodsbypass.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/aimodsbypass.jpg",
     "Sezione": "Tools AIMODS",
     "Tooltip": "AIMODS-Bypass v.0.0.0.0",
     "MRicerca": "Tools AIMODS",
@@ -807,7 +807,7 @@
   {
     "Nome": "Windscribe",
     "Link": "https://devuploads.com/8xqatmktzvu3",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/main/Immagini/VPN/windscribe.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/VPN/windscribe.jpg",
     "Sezione": "VPN",
     "Tooltip": "Windscribe VPN",
     "MRicerca": "VPN"
@@ -815,7 +815,7 @@
   {
     "Nome": "Avira Phantom",
     "Link": "https://devuploads.com/yqb8gsqhyniz",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/refs/heads/main/Immagini/VPN/aviraphantomvpn.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/VPN/aviraphantomvpn.jpg",
     "Sezione": "VPN",
     "Tooltip": "Avira Phantom VPN Pro v2.44.1.19908",
     "MRicerca": "VPN"
@@ -823,7 +823,7 @@
   {
     "Nome": "Xara Photo and Graphic Designer Plus",
     "Link": "https://devuploads.com/dxcd4p38yj8x",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/refs/heads/main/Immagini/Xara/xaraphotoandgraphicdesigner.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Xara/xaraphotoandgraphicdesigner.jpg",
     "Sezione": "Xara",
     "Tooltip": "Xara Photo and Graphic Designer Plus v24.3.0.70123",
     "MRicerca": "Xara"
@@ -831,7 +831,7 @@
   {
     "Nome": "Xara Web Designer Plus",
     "Link": "https://devuploads.com/ltsrevy9pzjm",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/refs/heads/main/Immagini/Xara/xarawebdesigner.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Xara/xarawebdesigner.jpg",
     "Sezione": "Xara",
     "Tooltip": "Xara Web Designer Plus",
     "MRicerca": "Xara"
@@ -839,7 +839,7 @@
   {
     "Nome": "Xara Designer Pro Plus",
     "Link": "https://devuploads.com/ij3edxne7bin",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/refs/heads/main/Immagini/Xara/xaradesignerpro.jpg",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Xara/xaradesignerpro.jpg",
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
@@ -848,7 +848,7 @@
     "Nome": "Assistente-Aggiornamento-Win11",
     "Link": "https://devuploads.com/la82qikyl2bh",
     "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AIMODSstore/AIMODS-Store/refs/heads/main/Immagini/Tool-AIMODS/5de66eb3-586e-4a61-ae97-a5cdb9b58470.png",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Tool-AIMODS/5de66eb3-586e-4a61-ae97-a5cdb9b58470.png",
     "Sezione": "Tools AIMODS",
     "Descrizione": " Lo strumento facilita l'aggiornamento rendendolo automatico e, quindi, semplice da effettuare anche per i meno esperti, mantenendo tutti i file personali.",
     "Tooltip": "Assistente Aggiornamento v.0.0.0.0",
