@@ -853,5 +853,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "Riproduttore Video",
+    "Link": "https://devuploads.com/mkjju604bc6e",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/riproduttorevideo.png",
+    "Sezione": "Tools AIMODS",
+    "Descrizione": "Il nostro player è una piattaforma che offre un’esperienza immersiva per la visione di eventi sportivi in diretta su MacOS e Windows. Sviluppato per garantire la massima qualità di streaming e un’interfaccia intuitiva, il software consente agli utenti di accedere facilmente ai contenuti sportivi da qualsiasi dispositivo desktop. L’obiettivo è quello di mettere gli appassionati di sport al centro dell’azione, con eventi in tempo reale e una qualità video impeccabile.",
+    "Tooltip": "Riproduttore Video v.0.0.0.0",
+    "MRicerca": "Tools AIMODS"
   }
 ]
