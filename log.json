@@ -58,5 +58,15 @@
     "MessaggioAPP": "",
     "Timestamp": "30/10/2024 17:30:43",
     "Username": "stanis02"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: An error occurred trying to start process 'https://devuploads.com/mkjju604bc6e' with working directory 'C:\\Users\\vlad_\\AppData\\Roaming\\IDM'. Interfaccia non registrata.",
+    "Timestamp": "31/10/2024 18:19:12",
+    "Username": "UTENTE"
   }
 ]
