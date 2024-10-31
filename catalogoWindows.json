@@ -805,6 +805,16 @@
     "Descrizione": null
   },
   {
+    "Nome": "Assistente-Aggiornamento-Win11",
+    "Link": "https://devuploads.com/la82qikyl2bh",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Tool-AIMODS/5de66eb3-586e-4a61-ae97-a5cdb9b58470.png",
+    "Sezione": "Tools AIMODS",
+    "Descrizione": " Lo strumento facilita l'aggiornamento rendendolo automatico e, quindi, semplice da effettuare anche per i meno esperti, mantenendo tutti i file personali.",
+    "Tooltip": "Assistente Aggiornamento v.0.0.0.0",
+    "MRicerca": "Tools AIMODS"
+  },
+  {
     "Nome": "Windscribe",
     "Link": "https://devuploads.com/8xqatmktzvu3",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/VPN/windscribe.jpg",
@@ -843,15 +853,5 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
-  },
-  {
-    "Nome": "Assistente-Aggiornamento-Win11",
-    "Link": "https://devuploads.com/la82qikyl2bh",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Tool-AIMODS/5de66eb3-586e-4a61-ae97-a5cdb9b58470.png",
-    "Sezione": "Tools AIMODS",
-    "Descrizione": " Lo strumento facilita l'aggiornamento rendendolo automatico e, quindi, semplice da effettuare anche per i meno esperti, mantenendo tutti i file personali.",
-    "Tooltip": "Assistente Aggiornamento v.0.0.0.0",
-    "MRicerca": "Tools AIMODS"
   }
 ]
