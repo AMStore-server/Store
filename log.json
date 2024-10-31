@@ -108,5 +108,15 @@
     "MessaggioAPP": "",
     "Timestamp": "31/10/2024 19:37:42",
     "Username": "Melleddu"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione fallita: Username già esistente",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "31/10/2024 19:38:48",
+    "Username": "melleddu"
   }
 ]
