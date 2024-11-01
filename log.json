@@ -138,5 +138,15 @@
     "MessaggioAPP": "",
     "Timestamp": "31/10/2024 23:59:47",
     "Username": "Mario.M94"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "01/11/2024 07:38:54",
+    "Username": "Francesco"
   }
 ]
