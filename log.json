@@ -218,5 +218,15 @@
     "MessaggioAPP": "",
     "Timestamp": "02/11/2024 09:56:31",
     "Username": "Utenbta"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "02/11/2024 11:09:01",
+    "Username": "SBORRATOR"
   }
 ]
