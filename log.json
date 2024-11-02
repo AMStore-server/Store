@@ -198,45 +198,5 @@
     "MessaggioAPP": "",
     "Timestamp": "01/11/2024 18:08:50",
     "Username": "DrBloW"
-  },
-  {
-    "LogRegisterAccount": "",
-    "MessaggioRegisterAccount": "",
-    "LogLogInAccount": "",
-    "MessaggioLogInAccount": "",
-    "LogAPP": "TRUE",
-    "MessaggioAPP": "Errore: Errore durante la creazione dell'handle della finestra.",
-    "Timestamp": "01/11/2024 20:53:27",
-    "Username": "UTENTE"
-  },
-  {
-    "LogRegisterAccount": "TRUE",
-    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
-    "LogLogInAccount": "",
-    "MessaggioLogInAccount": "",
-    "LogAPP": "",
-    "MessaggioAPP": "",
-    "Timestamp": "02/11/2024 09:56:31",
-    "Username": "Utenbta"
-  },
-  {
-    "LogRegisterAccount": "TRUE",
-    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
-    "LogLogInAccount": "",
-    "MessaggioLogInAccount": "",
-    "LogAPP": "",
-    "MessaggioAPP": "",
-    "Timestamp": "02/11/2024 11:09:01",
-    "Username": "SBORRATOR"
-  },
-  {
-    "LogRegisterAccount": "TRUE",
-    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
-    "LogLogInAccount": "",
-    "MessaggioLogInAccount": "",
-    "LogAPP": "",
-    "MessaggioAPP": "",
-    "Timestamp": "02/11/2024 11:16:30",
-    "Username": "untonto"
   }
 ]
