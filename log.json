@@ -228,5 +228,15 @@
     "MessaggioAPP": "Errore: Host sconosciuto. (raw.githubusercontent.com:443)",
     "Timestamp": "02/11/2024 16:04:38",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "02/11/2024 17:44:15",
+    "Username": "pippone"
   }
 ]
