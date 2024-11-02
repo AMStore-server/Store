@@ -208,5 +208,15 @@
     "MessaggioAPP": "Errore: Errore durante la creazione dell'handle della finestra.",
     "Timestamp": "01/11/2024 20:53:27",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "02/11/2024 09:56:31",
+    "Username": "Utenbta"
   }
 ]
