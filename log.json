@@ -218,5 +218,15 @@
     "MessaggioAPP": "Errore: Errore durante la creazione dell'handle della finestra.",
     "Timestamp": "02/11/2024 13:26:51",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Host sconosciuto. (raw.githubusercontent.com:443)",
+    "Timestamp": "02/11/2024 16:04:38",
+    "Username": "UTENTE"
   }
 ]
