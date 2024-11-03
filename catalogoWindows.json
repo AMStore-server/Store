@@ -66,7 +66,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Adobe/aftereffects.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe After Effects 2024_v.24.6.2.002",
-    "MRicerca": "Adobe"
+    "MRicerca": "Adobe",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Adobe Master Collection",
@@ -127,13 +129,13 @@
   },
   {
     "Nome": "64Gram",
-    "Link": " https://devuploads.com/f54gzw7iwmjh",
+    "Link": "https://devuploads.com/f54gzw7iwmjh",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Social/64gram.jpg",
     "Sezione": "Altro",
     "Tooltip": "64Gram",
     "MRicerca": "Altro",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": ""
   },
   {
     "Nome": "Mountain Duck",
