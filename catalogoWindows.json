@@ -470,11 +470,13 @@
   },
   {
     "Nome": "Driver Easy",
-    "Link": "https://devuploads.com/cqy22pqefcpq",
+    "Link": "https://devuploads.com/7kgf0wssinoq",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/DriverEasy.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Driver Easy Professional v6.0.025691",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
+    "MRicerca": "Gestione/Pulizia/Personalizzazione PC",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "WallpaperEngine",
