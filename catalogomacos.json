@@ -180,7 +180,13 @@
         "imageUrl": "https://taiwebs.com/upload/icons/microsoft-office-2024-pro-plus-icon220-220.png",
         "type": "Office24",
         "link": "https://devuploads.com/13z4wea0c3ns"
-      }
+      },
+    {
+       "name": "Riproduttore Video",
+       "imageUrl": "https://github.com/AMStore-server/Store/blob/main/Immagini/Tool-AIMODS/riproduttorevideo.png",
+       "type": "RiproduttoreVideo",
+       "link": "https://devuploads.com/13z4wea0c3ns"
+     }
     ]
   }
 ]
