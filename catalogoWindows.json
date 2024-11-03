@@ -506,11 +506,13 @@
   },
   {
     "Nome": "CCleaner",
-    "Link": "https://devuploads.com/5nsoz5ed16gl",
+    "Link": "https://devuploads.com/19vojak1v6m4",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/ccleaner.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "CCleaner Professional v6.25",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
+    "MRicerca": "Gestione/Pulizia/Personalizzazione PC",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "StartAllBack",
