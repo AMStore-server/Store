@@ -127,11 +127,13 @@
   },
   {
     "Nome": "64Gram",
-    "Link": "https://devuploads.com/lmw8kmwaz319",
+    "Link": " https://devuploads.com/f54gzw7iwmjh",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Social/64gram.jpg",
     "Sezione": "Altro",
     "Tooltip": "64Gram",
-    "MRicerca": "Altro"
+    "MRicerca": "Altro",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Mountain Duck",
