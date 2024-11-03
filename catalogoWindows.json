@@ -665,6 +665,16 @@
     "MRicerca": "Giochi"
   },
   {
+    "Nome": "TG Card Shop Simulator",
+    "Link": "https://devuploads.com/09modick1zdw",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/tgcardshopsimulator.png",
+    "Sezione": "Giochi",
+    "Descrizione": "TCG Card Shop Simulator è una simulazione di negozio di carte collezionabili in cui si vendono i booster pack di carte per guadagnare denaro e costruire il proprio negozio di carte.",
+    "Tooltip": "TCG Card Shop Simulator v0.47.3",
+    "MRicerca": "Giochi"
+  },
+  {
     "Nome": "Topaz Photo AI",
     "Link": "https://devuploads.com/ejdrv7cqsqyx",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/topaz.jpg",
@@ -823,6 +833,16 @@
     "MRicerca": "Tools AIMODS"
   },
   {
+    "Nome": "Riproduttore Video",
+    "Link": "https://devuploads.com/ls9eb5bdt9fa",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/riproduttorevideo.png",
+    "Sezione": "Tools AIMODS",
+    "Descrizione": "Il nostro player è una piattaforma che offre un’esperienza immersiva per la visione di eventi sportivi in diretta su MacOS e Windows. Sviluppato per garantire la massima qualità di streaming e un’interfaccia intuitiva, il software consente agli utenti di accedere facilmente ai contenuti sportivi da qualsiasi dispositivo desktop. L’obiettivo è quello di mettere gli appassionati di sport al centro dell’azione, con eventi in tempo reale e una qualità video impeccabile.",
+    "Tooltip": "Riproduttore Video v.0.0.0.0",
+    "MRicerca": "Tools AIMODS"
+  },
+  {
     "Nome": "Windscribe",
     "Link": "https://devuploads.com/8xqatmktzvu3",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/VPN/windscribe.jpg",
@@ -861,25 +881,5 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
-  },
-  {
-    "Nome": "Riproduttore Video",
-    "Link": "https://devuploads.com/ls9eb5bdt9fa",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/riproduttorevideo.png",
-    "Sezione": "Tools AIMODS",
-    "Descrizione": "Il nostro player è una piattaforma che offre un’esperienza immersiva per la visione di eventi sportivi in diretta su MacOS e Windows. Sviluppato per garantire la massima qualità di streaming e un’interfaccia intuitiva, il software consente agli utenti di accedere facilmente ai contenuti sportivi da qualsiasi dispositivo desktop. L’obiettivo è quello di mettere gli appassionati di sport al centro dell’azione, con eventi in tempo reale e una qualità video impeccabile.",
-    "Tooltip": "Riproduttore Video v.0.0.0.0",
-    "MRicerca": "Tools AIMODS"
-  },
-  {
-    "Nome": "TG Card Shop Simulator",
-    "Link": "https://devuploads.com/09modick1zdw",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/tgcardshopsimulator.png",
-    "Sezione": "Giochi",
-    "Descrizione": "TCG Card Shop Simulator è una simulazione di negozio di carte collezionabili in cui si vendono i booster pack di carte per guadagnare denaro e costruire il proprio negozio di carte.",
-    "Tooltip": "TCG Card Shop Simulator v0.47.3",
-    "MRicerca": "Giochi"
   }
 ]
