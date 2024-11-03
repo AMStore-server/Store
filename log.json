@@ -308,5 +308,15 @@
     "MessaggioAPP": "Errore: ",
     "Timestamp": "03/11/2024 15:00:33",
     "Username": "shyzzy"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione fallita, database in uso",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "03/11/2024 15:01:10",
+    "Username": "Shyzzy"
   }
 ]
