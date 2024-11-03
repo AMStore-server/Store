@@ -183,7 +183,7 @@
       },
     {
        "name": "Riproduttore Video",
-       "imageUrl": "https://github.com/AMStore-server/Store/blob/main/Immagini/Tool-AIMODS/riproduttorevideo.png",
+       "imageUrl": "https://github.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/riproduttorevideo.png",
        "type": "RiproduttoreVideo",
        "link": "https://devuploads.com/bhju7c7j90w4"
      }
