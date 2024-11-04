@@ -718,11 +718,13 @@
   },
   {
     "Nome": "IObit Unistaller",
-    "Link": "https://devuploads.com/jkjobexej60j",
+    "Link": "https://devuploads.com/kvj7wzoi091n",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Iobit/unistaller.jpg",
     "Sezione": "IObit",
-    "Tooltip": "IObit Uninstaller Pro v13.6.0.5",
-    "MRicerca": "IObit"
+    "Tooltip": "IObit Uninstaller Pro v14.0.0.17",
+    "MRicerca": "IObit",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "IObit Smart Defrag",
