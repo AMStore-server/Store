@@ -438,5 +438,15 @@
     "MessaggioAPP": "",
     "Timestamp": "04/11/2024 10:24:40",
     "Username": "webpassenger"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: An error occurred trying to start process 'https://devuploads.com/5x4sqiudkb4m' with working directory 'C:\\Users\\matti\\Downloads'. Interfaccia non registrata.",
+    "Timestamp": "04/11/2024 19:05:05",
+    "Username": "UTENTE"
   }
 ]
