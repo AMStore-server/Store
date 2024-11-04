@@ -847,6 +847,16 @@
     "MRicerca": "Tools AIMODS"
   },
   {
+    "Nome": "Calibre",
+    "Link": "https://devuploads.com/xd63w3pdjnl6",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/Calibre.png",
+    "Sezione": "Tools AIMODS",
+    "Descrizione": "Calibre 7.20",
+    "Tooltip": null,
+    "MRicerca": "Calibre"
+  },
+  {
     "Nome": "Windscribe",
     "Link": "https://devuploads.com/8xqatmktzvu3",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/VPN/windscribe.jpg",
@@ -885,15 +895,5 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
-  },
-  {
-    "Nome": "Calibre",
-    "Link": "https://devuploads.com/xd63w3pdjnl6",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/Calibre.png",
-    "Sezione": "Tools AIMODS",
-    "Descrizione": "Calibre 7.20",
-    "Tooltip": null,
-    "MRicerca": "Calibre"
   }
 ]
