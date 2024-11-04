@@ -418,5 +418,15 @@
     "MessaggioAPP": "Errore: An error occurred trying to start process ' https://devuploads.com/f54gzw7iwmjh' with working directory 'C:\\Users\\Davide Esposti\\Desktop'. Impossibile trovare il file specificato.",
     "Timestamp": "03/11/2024 18:19:54",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "04/11/2024 10:21:19",
+    "Username": "webpasseger"
   }
 ]
