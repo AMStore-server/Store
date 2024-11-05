@@ -892,5 +892,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "Tenorshare 4DDIG",
+    "Link": "https://devuploads.com/ja152bz3pqta",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/Tenorshare.png",
+    "Sezione": "Tools AIMODS",
+    "Descrizione": null,
+    "Tooltip": "Tenorshare 4DDIG 10.1.17",
+    "MRicerca": "Tenorshare"
   }
 ]
