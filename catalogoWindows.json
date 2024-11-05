@@ -287,6 +287,16 @@
     "MRicerca": "Frremake"
   },
   {
+    "Nome": "Freemake Video Converter",
+    "Link": "https://devuploads.com/22n8f1jrp3k3",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/default/Freemake.png",
+    "Sezione": "Convertitore",
+    "Descrizione": "Freemake Video Converter",
+    "Tooltip": "",
+    "MRicerca": "Frremake"
+  },
+  {
     "Nome": "StreamFAB",
     "Link": "https://devuploads.com/vk2aj211j1nn",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/DVDFab.jpg",
@@ -912,15 +922,5 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
-  },
-  {
-    "Nome": "Freemake Video Converter",
-    "Link": "https://devuploads.com/22n8f1jrp3k3",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/default/Freemake.png",
-    "Sezione": "Convertitore",
-    "Descrizione": "Freemake Video Converter",
-    "Tooltip": "",
-    "MRicerca": "Frremake"
   }
 ]
