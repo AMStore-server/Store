@@ -902,5 +902,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "Tenorshare ReiBoot for Android",
+    "Link": "https://devuploads.com/33nkbi5nasx8",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/ReiBooot.png",
+    "Sezione": "Altro",
+    "Descrizione": null,
+    "Tooltip": "Tenorshare ReiBoot for Android 2-1.8",
+    "MRicerca": "Tenorshare ReiBoot"
   }
 ]
