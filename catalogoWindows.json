@@ -1,16 +1,13 @@
 [
   {
     "Nome": "Adobe Acrobat Pro",
-    "Link": {
-      "x64": "https://devuploads.com/44lzwotrhp5v",
-      "x32": "https://devuploads.com/1uje6yygo25j"
-    },
+    "Link": "{\r\n  \"x64\": \"https://devuploads.com/44lzwotrhp5v\",\r\n  \"x32\": \"https://devuploads.com/1uje6yygo25j\"\r\n}",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/acrobatpro.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Acrobat Pro v24.003.20112",
     "MRicerca": "Adobe",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": ""
   },
   {
     "Nome": "Adobe Photoshop",
