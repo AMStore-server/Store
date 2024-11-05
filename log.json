@@ -528,5 +528,15 @@
     "MessaggioAPP": "Errore: An error occurred trying to start process '{\r\n  \"x64\": \"https://devuploads.com/44lzwotrhp5v\",\r\n  \"x32\": \"https://devuploads.com/1uje6yygo25j\"\r\n}' with working directory 'C:\\Users\\164307\\OneDrive\\Desktop'. Impossibile trovare il file specificato.",
     "Timestamp": "05/11/2024 18:34:23",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "05/11/2024 19:02:53",
+    "Username": "Nic05"
   }
 ]
