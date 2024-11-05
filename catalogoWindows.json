@@ -506,10 +506,10 @@
     "Link": "https://devuploads.com/5x4sqiudkb4m",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/revounistaller.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
-    "Tooltip": "Revo Uninstaller Pro 5.3",
+    "Tooltip": "Revo Uninstaller Pro v5.3.2.0",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": ""
   },
   {
     "Nome": "CCleaner",
