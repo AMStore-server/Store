@@ -912,5 +912,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "PassFab For RAR",
+    "Link": "https://devuploads.com/z1y68h5fvja5",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/PassFab%20RAR.png",
+    "Sezione": "Tools AIMODS",
+    "Descrizione": null,
+    "Tooltip": "PassFab For RAR 9.5.2.2",
+    "MRicerca": null
   }
 ]
