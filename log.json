@@ -1358,5 +1358,15 @@
     "MessaggioAPP": "Errore: An error occurred trying to start process '{\r\n  \"x64\": \"https://devuploads.com/44lzwotrhp5v\",\r\n  \"x32\": \"https://devuploads.com/1uje6yygo25j\"\r\n}' with working directory 'C:\\WINDOWS\\system32'. Impossibile trovare il file specificato.",
     "Timestamp": "07/11/2024 19:29:07",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "07/11/2024 19:29:43",
+    "Username": "joeaveta"
   }
 ]
