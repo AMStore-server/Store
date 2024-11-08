@@ -8,7 +8,7 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/acrobatpro.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Acrobat Pro v24.003.20112",
-    "MRicerca": "Adobe",
+    "MRicerca": "Adobe"
   },
   {
     "Nome": "Adobe Photoshop",
@@ -923,5 +923,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "Clipboard",
+    "Link": "https://devuploads.com/h2e9cktq8fde",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Tool-AIMODS/Clipboard.jpg",
+    "Sezione": "Tools AIMODS",
+    "Descrizione": "AIMods Advanced Clipboard instaura una connessione client-server con tutti i dispositivi connessi alla stessa rete privata. Sfruttando tale meccanismo, un server (un dispositivo) invia ai client (tutti gli altri dispositivi) ciò che è stato copiato (o la nota creata). In questo modo, le note, il testo e le immagini copiate sul PC in camera, verranno copiati istantaneamente anche sul PC in sala e viceversa.",
+    "Tooltip": "Clipboard v.1.0.0.0",
+    "MRicerca": "Tools AIMODS"
   }
 ]
