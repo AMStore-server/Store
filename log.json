@@ -1958,5 +1958,15 @@
     "MessaggioAPP": "",
     "Timestamp": "10/11/2024 19:18:08",
     "Username": "Jasper666"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "10/11/2024 19:18:38",
+    "Username": "fluidonarcotico"
   }
 ]
