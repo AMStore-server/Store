@@ -338,11 +338,13 @@
   },
   {
     "Nome": "Y2mate Downloader",
-    "Link": "https://devuploads.com/ujb5gi8hbhwd",
+    "Link": "https://devuploads.com/fqw06y68xfz5",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/y2matedownloader.jpg",
     "Sezione": "Downloader",
     "Tooltip": "Y2mate Downloader v1.2.3.4",
-    "MRicerca": "Downloader"
+    "MRicerca": "Downloader",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "MusicFab",
