@@ -1948,5 +1948,15 @@
     "MessaggioAPP": "Errore: ",
     "Timestamp": "10/11/2024 02:58:05",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "10/11/2024 19:18:08",
+    "Username": "Jasper666"
   }
 ]
