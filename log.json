@@ -1938,5 +1938,15 @@
     "MessaggioAPP": "",
     "Timestamp": "09/11/2024 20:52:34",
     "Username": "utasay"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: ",
+    "Timestamp": "10/11/2024 02:58:05",
+    "Username": "UTENTE"
   }
 ]
