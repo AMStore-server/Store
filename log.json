@@ -1998,5 +1998,15 @@
     "MessaggioAPP": "",
     "Timestamp": "11/11/2024 10:55:42",
     "Username": "Bobo"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "11/11/2024 12:40:58",
+    "Username": "mrjohn"
   }
 ]
