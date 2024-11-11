@@ -888,11 +888,13 @@
   },
   {
     "Nome": "Windscribe",
-    "Link": "https://devuploads.com/8xqatmktzvu3",
+    "Link": "https://devuploads.com/o6rzuq8c5wz5",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/VPN/windscribe.jpg",
     "Sezione": "VPN",
     "Tooltip": "Windscribe VPN",
-    "MRicerca": "VPN"
+    "MRicerca": "VPN",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Avira Phantom",
