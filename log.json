@@ -2038,5 +2038,15 @@
     "MessaggioAPP": "Errore: Impossibile ottenere l'URL del catalogo: The SSL connection could not be established, see inner exception.",
     "Timestamp": "12/11/2024 19:15:13",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "12/11/2024 19:18:38",
+    "Username": "opusg@hi2.in"
   }
 ]
