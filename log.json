@@ -2048,5 +2048,15 @@
     "MessaggioAPP": "",
     "Timestamp": "12/11/2024 19:18:38",
     "Username": "opusg@hi2.in"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "13/11/2024 18:22:14",
+    "Username": "opusg"
   }
 ]
