@@ -12,11 +12,13 @@
   },
   {
     "Nome": "Adobe Photoshop",
-    "Link": "https://devuploads.com/0qxwr3b3ibfx",
+    "Link": "https://devuploads.com/uv9to1t6ruy1",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/Photoshop.jpg",
     "Sezione": "Adobe",
-    "Tooltip": "Adobe Photoshop 2024 v.25.12.0.806",
-    "MRicerca": "Adobe"
+    "Tooltip": "Adobe Photoshop 2025 v.26.0",
+    "MRicerca": "Adobe",
+    "LinkR": null,
+    "Descrizione": "Inizia da Photoshop. Finisci in bellezza."
   },
   {
     "Nome": "Adobe Reader DC",
