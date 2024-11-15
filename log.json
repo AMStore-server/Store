@@ -2158,5 +2158,15 @@
     "MessaggioAPP": "Errore: An error occurred trying to start process 'https://devuploads.com/9q7muxlw3nbb' with working directory 'C:\\Users\\alber\\Downloads'. Application not found",
     "Timestamp": "15/11/2024 18:19:37",
     "Username": "albume"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: An error occurred trying to start process 'https://devuploads.com/9q7muxlw3nbb' with working directory 'C:\\Users\\alber\\Downloads'. Application not found",
+    "Timestamp": "15/11/2024 18:19:58",
+    "Username": "UTENTE"
   }
 ]
