@@ -2258,5 +2258,15 @@
     "MessaggioAPP": "",
     "Timestamp": "16/11/2024 12:03:49",
     "Username": "nino"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "TRUE",
+    "MessaggioLogInAccount": "Registrazione fallita: Impossibile stabilire la connessione. Risposta non corretta della parte connessa dopo l'intervallo di tempo oppure mancata risposta dall'host collegato. (api.github.com:443)",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "16/11/2024 12:18:46",
+    "Username": "alecasa12"
   }
 ]
