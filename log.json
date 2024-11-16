@@ -2238,5 +2238,15 @@
     "MessaggioAPP": "",
     "Timestamp": "16/11/2024 10:14:45",
     "Username": "thunderwing666"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: An error occurred trying to start process 'https://devuploads.com/9q7muxlw3nbb' with working directory 'C:\\Users\\alber\\Downloads'. Application not found",
+    "Timestamp": "16/11/2024 11:27:10",
+    "Username": "UTENTE"
   }
 ]
