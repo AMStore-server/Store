@@ -299,13 +299,13 @@
   },
   {
     "Nome": "IDM",
-    "Link": "https://devuploads.com/4z5a2mnn8p1s",
+    "Link": "https://devuploads.com/skvvvd192jvf",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/IDM.jpg",
     "Sezione": "Downloader",
-    "Tooltip": "IDM v6.42 b23",
+    "Tooltip": "IDM v6.42 b25",
     "MRicerca": "Downloader",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "Installa Internet Download Manager (IDM) per interrompere l'attesa per i download. Rimarrai davvero stupito dalla velocità con cui IDM scarica i tuoi file. IDM riparerà anche i download interrotti e riprenderà a causa di connessioni perse, problemi di rete, arresti del computer o interruzioni di corrente impreviste."
   },
   {
     "Nome": "IDM Portable",
