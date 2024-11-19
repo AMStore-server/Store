@@ -163,11 +163,13 @@
   },
   {
     "Nome": "Bandicam",
-    "Link": "https://devuploads.com/n0yoi8r0qtxs",
+    "Link": "https://devuploads.com/18cxr1w1ua76",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/bandicam.png",
     "Sezione": "Altro",
     "Tooltip": "Bandicam v7.1.3.2456",
-    "MRicerca": "Altro"
+    "MRicerca": "Altro",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "VMWare",
