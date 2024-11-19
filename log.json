@@ -2368,5 +2368,15 @@
     "MessaggioAPP": "",
     "Timestamp": "19/11/2024 12:51:55",
     "Username": "gaia04"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Impossibile ottenere l'URL del catalogo: The SSL connection could not be established, see inner exception.",
+    "Timestamp": "19/11/2024 15:08:43",
+    "Username": "UTENTE"
   }
 ]
