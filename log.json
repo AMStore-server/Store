@@ -2438,5 +2438,15 @@
     "MessaggioAPP": "",
     "Timestamp": "20/11/2024 15:47:35",
     "Username": "ivano666"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: The SSL connection could not be established, see inner exception.",
+    "Timestamp": "20/11/2024 21:38:05",
+    "Username": "UTENTE"
   }
 ]
