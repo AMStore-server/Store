@@ -943,5 +943,15 @@
     "Descrizione": "AIMods Advanced Clipboard instaura una connessione client-server con tutti i dispositivi connessi alla stessa rete privata. Sfruttando tale meccanismo, un server (un dispositivo) invia ai client (tutti gli altri dispositivi) ciò che è stato copiato (o la nota creata). In questo modo, le note, il testo e le immagini copiate sul PC in camera, verranno copiati istantaneamente anche sul PC in sala e viceversa.",
     "Tooltip": "Clipboard v.1.0.0.0",
     "MRicerca": "Tools AIMODS"
+  },
+  {
+    "Nome": "Teardown",
+    "Link": "https://t.me/c/1878469152/4612",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/AI/Teardown.png",
+    "Sezione": "Giochi",
+    "Descrizione": null,
+    "Tooltip": "Teardown",
+    "MRicerca": "Teardown"
   }
 ]
