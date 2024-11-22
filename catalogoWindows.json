@@ -953,5 +953,15 @@
     "Descrizione": null,
     "Tooltip": "Teardown",
     "MRicerca": "Teardown"
+  },
+  {
+    "Nome": "QuickTweak",
+    "Link": "https://devuploads.com/xpfq0fryeyqn",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/quicktweaklogo.png",
+    "Sezione": "Tools AIMODS",
+    "Descrizione": null,
+    "Tooltip": "QuickTweak v.0.0.0.0",
+    "MRicerca": "Tools AIMODS"
   }
 ]
