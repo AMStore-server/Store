@@ -2478,5 +2478,15 @@
     "MessaggioAPP": "",
     "Timestamp": "21/11/2024 15:25:39",
     "Username": "medmax1971"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "23/11/2024 18:35:06",
+    "Username": "Feluccio24"
   }
 ]
