@@ -963,5 +963,15 @@
     "Descrizione": null,
     "Tooltip": "QuickTweak v.0.0.0.0",
     "MRicerca": "Tools AIMODS"
+  },
+  {
+    "Nome": "Assassin's Creed Syndacate",
+    "Link": "https://devuploads.com/he7ub8115o7i",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Assassin's%20Creed%20Syndacate.png",
+    "Sezione": "Giochi",
+    "Descrizione": null,
+    "Tooltip": null,
+    "MRicerca": "Assassin's Creed Syndacate"
   }
 ]
