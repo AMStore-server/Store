@@ -2588,5 +2588,15 @@
     "MessaggioAPP": "Errore: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.",
     "Timestamp": "25/11/2024 22:20:07",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Errore durante la creazione dell'handle della finestra.",
+    "Timestamp": "25/11/2024 22:39:23",
+    "Username": "UTENTE"
   }
 ]
