@@ -2648,5 +2648,15 @@
     "MessaggioAPP": "Errore: An error occurred trying to start process 'https://devuploads.com/o2zdgh6yadai' with working directory 'C:\\Users\\luca\\Downloads'. Nessuna applicazione associata al file specificato per questa operazione.",
     "Timestamp": "26/11/2024 15:29:31",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: An error occurred trying to start process 'https://devuploads.com/o2zdgh6yadai' with working directory 'C:\\Users\\luca\\Downloads'. Nessuna applicazione associata al file specificato per questa operazione.",
+    "Timestamp": "26/11/2024 15:29:39",
+    "Username": "UTENTE"
   }
 ]
