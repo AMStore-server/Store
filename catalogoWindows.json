@@ -973,5 +973,15 @@
     "Descrizione": null,
     "Tooltip": null,
     "MRicerca": "Assassin's Creed Syndacate"
+  },
+  {
+    "Nome": "Assassin's Creed Mirage",
+    "Link": "https://devuploads.com/t65fjutj6aer",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Assassin's%20Creed%20Mirage.png",
+    "Sezione": "Giochi",
+    "Descrizione": null,
+    "Tooltip": null,
+    "MRicerca": "Assassin's Creed Mirage"
   }
 ]
