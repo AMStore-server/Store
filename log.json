@@ -2988,5 +2988,15 @@
     "MessaggioAPP": "",
     "Timestamp": "27/11/2024 18:26:52",
     "Username": "matteo"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione fallita: Username già esistente",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "27/11/2024 18:27:17",
+    "Username": "francesco"
   }
 ]
