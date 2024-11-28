@@ -604,11 +604,13 @@
   },
   {
     "Nome": "Supermarket Simulator",
-    "Link": "https://devuploads.com/wjs6f69gyacj",
+    "Link": "https://devuploads.com/74xysud6hi6o",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/supermarketsimulator.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Supermarket Simulator v0.2.1.2",
-    "MRicerca": "Giochi"
+    "MRicerca": "Giochi",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Euro Truck Simulator 2",
