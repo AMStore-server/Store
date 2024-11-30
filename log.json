@@ -3108,5 +3108,15 @@
     "MessaggioAPP": "",
     "Timestamp": "30/11/2024 16:08:41",
     "Username": "WinAndr3s"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "30/11/2024 17:24:09",
+    "Username": "4eyes81"
   }
 ]
