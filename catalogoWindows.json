@@ -394,11 +394,13 @@
   },
   {
     "Nome": "Wondershare Filmora",
-    "Link": "https://devuploads.com/zeh2je4ljgj9",
+    "Link": "https://devuploads.com/2rwj4uyhquw7",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/wondershare.jpg",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "Wondershare Filmora v13.6.6.8453",
-    "MRicerca": "Gestione Foto/Video e Editing"
+    "MRicerca": "Gestione Foto/Video e Editing",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Prima Cartoonizer",
