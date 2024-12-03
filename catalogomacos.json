@@ -95,17 +95,17 @@
     "category": "Adobe",
     "items": [
      {
-        "name": "Acrobat DC",
-        "imageUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/acrobatpro.jpg",
-        "type": "AcrobatDC",
-        "link": "https://devuploads.com/5y04h20nq5jl"
-      },
-     {
-        "name": "Adobe Cracker by W$D$B - Coming Soon",
+        "name": "Adobe Cracker by W$D$B",
         "imageUrl": "",
         "type": "AdobeCrack",
         "link": ""
-      }
+      },
+     {
+          "name": "Acrobat DC",
+          "imageUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/acrobatpro.jpg",
+          "type": "AcrobatDC",
+          "link": "https://devuploads.com/5y04h20nq5jl"
+        }
     ]
   },
   {
