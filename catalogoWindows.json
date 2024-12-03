@@ -173,11 +173,13 @@
   },
   {
     "Nome": "VMWare",
-    "Link": "https://devuploads.com/t8i9c0fvd7db",
+    "Link": "https://devuploads.com/tsbxwlm6gn3t",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/vmware.jpg",
     "Sezione": "Altro",
     "Tooltip": "VMWare Workstation Pro 17.6.0.24238078",
-    "MRicerca": "Altro"
+    "MRicerca": "Altro",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Lightburn",
