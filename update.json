@@ -1,5 +1,5 @@
 { 
-    "version": "1.0.0.5", 
-    "releaseNotes": "Logica Server", 
-    "updateUrl": "https://github.com/AIMODSstore/AIMODS-Store/releases/download/AIMODS-Store/AIMODS-Store.exe" 
+    "version": "1.0.0.6", 
+    "releaseNotes": "Eliminazione Log e aggiunta scroll per le sezioni con più di due righe", 
+    "updateUrl": "https://github.com/AMStore-server/Store/releases/download/Store/AIMODS-Store.exe" 
 }
