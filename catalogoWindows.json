@@ -989,5 +989,15 @@
     "Descrizione": null,
     "Tooltip": null,
     "MRicerca": "Assassin's Creed Mirage"
+  },
+  {
+    "Nome": "Adobe Dimension",
+    "Link": "https://devuploads.com/xzbexla17pr6",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/adobedimension.png",
+    "Sezione": "Adobe",
+    "Descrizione": "Dimensione Adobe è un software di rendering e progettazione 3D sviluppato da Adobe Systems per sistemi operativi macOS e Windows. È un editor di mockup basato su foto in cui modelli, foto e trame devono essere creati in software di terze parti prima di essere importati in Dimensione.",
+    "Tooltip": "Adobe Dimension v4.0.4",
+    "MRicerca": "Adobe"
   }
 ]
