@@ -999,5 +999,15 @@
     "Descrizione": "Dimensione Adobe è un software di rendering e progettazione 3D sviluppato da Adobe Systems per sistemi operativi macOS e Windows. È un editor di mockup basato su foto in cui modelli, foto e trame devono essere creati in software di terze parti prima di essere importati in Dimensione.",
     "Tooltip": "Adobe Dimension v4.0.4",
     "MRicerca": "Adobe"
+  },
+  {
+    "Nome": "Foxit PDF Editor Pro",
+    "Link": "https://devuploads.com/068e5gdcd7tn",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/Foxit%20PDF.png",
+    "Sezione": "Altro",
+    "Descrizione": null,
+    "Tooltip": "Foxit PDF Editor Pro",
+    "MRicerca": "Foxit"
   }
 ]
