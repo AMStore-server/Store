@@ -1009,5 +1009,15 @@
     "Descrizione": null,
     "Tooltip": "Foxit PDF Editor Pro",
     "MRicerca": "Foxit"
+  },
+  {
+    "Nome": "Fernbus Simulator",
+    "Link": "https://devuploads.com/lfjecc8xrabh",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/fernbus.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Fernbus Coach Simulator è il primo simulatore dei popolari autobus interurbani. Grazie alla cooperazione con FlixBus, Fernbus Coach Simulator fa immedesimare il giocatore nella vita quotidiana di un autista di autobus sulle Autobahn tedesche, autostrade e più di 40 città estremamente dettagliate.",
+    "Tooltip": "Fernbus Simulator",
+    "MRicerca": "Giochi"
   }
 ]
