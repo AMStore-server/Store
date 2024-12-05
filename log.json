@@ -3288,5 +3288,15 @@
     "MessaggioAPP": "Errore: Errore durante la creazione dell'handle della finestra.",
     "Timestamp": "05/12/2024 14:44:26",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: The process cannot access the file 'C:\\Users\\Pier\\AppData\\Local\\Temp\\AIMODS-Store1.0.0.6.exe' because it is being used by another process.",
+    "Timestamp": "05/12/2024 15:29:42",
+    "Username": "UTENTE"
   }
 ]
