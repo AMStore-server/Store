@@ -1019,5 +1019,15 @@
     "Descrizione": "Fernbus Coach Simulator è il primo simulatore dei popolari autobus interurbani. Grazie alla cooperazione con FlixBus, Fernbus Coach Simulator fa immedesimare il giocatore nella vita quotidiana di un autista di autobus sulle Autobahn tedesche, autostrade e più di 40 città estremamente dettagliate.",
     "Tooltip": "Fernbus Simulator",
     "MRicerca": "Giochi"
+  },
+  {
+    "Nome": "Media Convert",
+    "Link": "https://devuploads.com/odjp3s5zemw7",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/MediaConvert.png",
+    "Sezione": "Tools AIMODS",
+    "Descrizione": "Il nuovo convertitore video e audio targato AIMODS è un potente strumento progettato per semplificare la gestione dei tuoi file multimediali. Supporta una vasta gamma di formati, tra cui MP4, AVI, MKV, MXF per video, e WAV, MP3, FLAC, AAC per audio, garantendo la massima versatilità.",
+    "Tooltip": "Media Convert v.0.0.0.0",
+    "MRicerca": "Tools AIMODS"
   }
 ]
