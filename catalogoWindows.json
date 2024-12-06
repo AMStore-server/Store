@@ -80,6 +80,16 @@
     "MRicerca": "Adobe"
   },
   {
+    "Nome": "Adobe Dimension",
+    "Link": "https://devuploads.com/xzbexla17pr6",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/adobedimension.png",
+    "Sezione": "Adobe",
+    "Descrizione": "Dimensione Adobe è un software di rendering e progettazione 3D sviluppato da Adobe Systems per sistemi operativi macOS e Windows. È un editor di mockup basato su foto in cui modelli, foto e trame devono essere creati in software di terze parti prima di essere importati in Dimensione.",
+    "Tooltip": "Adobe Dimension v4.0.4",
+    "MRicerca": "Adobe"
+  },
+  {
     "Nome": "WinToUsb",
     "Link": "https://devuploads.com/k9uy80fy2mjh",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/WinToUSB.jpg",
@@ -198,6 +208,16 @@
     "Descrizione": null,
     "Tooltip": "Tenorshare ReiBoot for Android 2-1.8",
     "MRicerca": "Tenorshare ReiBoot"
+  },
+  {
+    "Nome": "Foxit PDF Editor Pro",
+    "Link": "https://devuploads.com/068e5gdcd7tn",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/Foxit%20PDF.png",
+    "Sezione": "Altro",
+    "Descrizione": null,
+    "Tooltip": "Foxit PDF Editor Pro",
+    "MRicerca": "Foxit"
   },
   {
     "Nome": "Malwerbytes",
@@ -699,6 +719,46 @@
     "MRicerca": "Giochi"
   },
   {
+    "Nome": "Teardown",
+    "Link": "https://t.me/c/1878469152/4612",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/AI/Teardown.png",
+    "Sezione": "Giochi",
+    "Descrizione": null,
+    "Tooltip": "Teardown",
+    "MRicerca": "Teardown"
+  },
+  {
+    "Nome": "Assassin's Creed Syndacate",
+    "Link": "https://devuploads.com/he7ub8115o7i",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Assassin's%20Creed%20Syndacate.png",
+    "Sezione": "Giochi",
+    "Descrizione": null,
+    "Tooltip": null,
+    "MRicerca": "Assassin's Creed Syndacate"
+  },
+  {
+    "Nome": "Assassin's Creed Mirage",
+    "Link": "https://devuploads.com/t65fjutj6aer",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Assassin's%20Creed%20Mirage.png",
+    "Sezione": "Giochi",
+    "Descrizione": null,
+    "Tooltip": null,
+    "MRicerca": "Assassin's Creed Mirage"
+  },
+  {
+    "Nome": "Fernbus Simulator",
+    "Link": "https://devuploads.com/lfjecc8xrabh",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/fernbus.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Fernbus Coach Simulator è il primo simulatore dei popolari autobus interurbani. Grazie alla cooperazione con FlixBus, Fernbus Coach Simulator fa immedesimare il giocatore nella vita quotidiana di un autista di autobus sulle Autobahn tedesche, autostrade e più di 40 città estremamente dettagliate.",
+    "Tooltip": "Fernbus Simulator",
+    "MRicerca": "Giochi"
+  },
+  {
     "Nome": "Topaz Photo AI",
     "Link": "https://devuploads.com/ejdrv7cqsqyx",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/topaz.jpg",
@@ -899,6 +959,36 @@
     "MRicerca": null
   },
   {
+    "Nome": "Clipboard",
+    "Link": "https://devuploads.com/h2e9cktq8fde",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Tool-AIMODS/Clipboard.jpg",
+    "Sezione": "Tools AIMODS",
+    "Descrizione": "AIMods Advanced Clipboard instaura una connessione client-server con tutti i dispositivi connessi alla stessa rete privata. Sfruttando tale meccanismo, un server (un dispositivo) invia ai client (tutti gli altri dispositivi) ciò che è stato copiato (o la nota creata). In questo modo, le note, il testo e le immagini copiate sul PC in camera, verranno copiati istantaneamente anche sul PC in sala e viceversa.",
+    "Tooltip": "Clipboard v.1.0.0.0",
+    "MRicerca": "Tools AIMODS"
+  },
+  {
+    "Nome": "QuickTweak",
+    "Link": "https://devuploads.com/xpfq0fryeyqn",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/quicktweaklogo.png",
+    "Sezione": "Tools AIMODS",
+    "Descrizione": null,
+    "Tooltip": "QuickTweak v.0.0.0.0",
+    "MRicerca": "Tools AIMODS"
+  },
+  {
+    "Nome": "Media Convert",
+    "Link": "https://devuploads.com/odjp3s5zemw7",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/MediaConvert.png",
+    "Sezione": "Tools AIMODS",
+    "Descrizione": "Il nuovo convertitore video e audio targato AIMODS è un potente strumento progettato per semplificare la gestione dei tuoi file multimediali. Supporta una vasta gamma di formati, tra cui MP4, AVI, MKV, MXF per video, e WAV, MP3, FLAC, AAC per audio, garantendo la massima versatilità.",
+    "Tooltip": "Media Convert v.0.0.0.0",
+    "MRicerca": "Tools AIMODS"
+  },
+  {
     "Nome": "Windscribe",
     "Link": "https://devuploads.com/o6rzuq8c5wz5",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/VPN/windscribe.jpg",
@@ -939,95 +1029,5 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
-  },
-  {
-    "Nome": "Clipboard",
-    "Link": "https://devuploads.com/h2e9cktq8fde",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Tool-AIMODS/Clipboard.jpg",
-    "Sezione": "Tools AIMODS",
-    "Descrizione": "AIMods Advanced Clipboard instaura una connessione client-server con tutti i dispositivi connessi alla stessa rete privata. Sfruttando tale meccanismo, un server (un dispositivo) invia ai client (tutti gli altri dispositivi) ciò che è stato copiato (o la nota creata). In questo modo, le note, il testo e le immagini copiate sul PC in camera, verranno copiati istantaneamente anche sul PC in sala e viceversa.",
-    "Tooltip": "Clipboard v.1.0.0.0",
-    "MRicerca": "Tools AIMODS"
-  },
-  {
-    "Nome": "Teardown",
-    "Link": "https://t.me/c/1878469152/4612",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/AI/Teardown.png",
-    "Sezione": "Giochi",
-    "Descrizione": null,
-    "Tooltip": "Teardown",
-    "MRicerca": "Teardown"
-  },
-  {
-    "Nome": "QuickTweak",
-    "Link": "https://devuploads.com/xpfq0fryeyqn",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/quicktweaklogo.png",
-    "Sezione": "Tools AIMODS",
-    "Descrizione": null,
-    "Tooltip": "QuickTweak v.0.0.0.0",
-    "MRicerca": "Tools AIMODS"
-  },
-  {
-    "Nome": "Assassin's Creed Syndacate",
-    "Link": "https://devuploads.com/he7ub8115o7i",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Assassin's%20Creed%20Syndacate.png",
-    "Sezione": "Giochi",
-    "Descrizione": null,
-    "Tooltip": null,
-    "MRicerca": "Assassin's Creed Syndacate"
-  },
-  {
-    "Nome": "Assassin's Creed Mirage",
-    "Link": "https://devuploads.com/t65fjutj6aer",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Assassin's%20Creed%20Mirage.png",
-    "Sezione": "Giochi",
-    "Descrizione": null,
-    "Tooltip": null,
-    "MRicerca": "Assassin's Creed Mirage"
-  },
-  {
-    "Nome": "Adobe Dimension",
-    "Link": "https://devuploads.com/xzbexla17pr6",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/adobedimension.png",
-    "Sezione": "Adobe",
-    "Descrizione": "Dimensione Adobe è un software di rendering e progettazione 3D sviluppato da Adobe Systems per sistemi operativi macOS e Windows. È un editor di mockup basato su foto in cui modelli, foto e trame devono essere creati in software di terze parti prima di essere importati in Dimensione.",
-    "Tooltip": "Adobe Dimension v4.0.4",
-    "MRicerca": "Adobe"
-  },
-  {
-    "Nome": "Foxit PDF Editor Pro",
-    "Link": "https://devuploads.com/068e5gdcd7tn",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/Foxit%20PDF.png",
-    "Sezione": "Altro",
-    "Descrizione": null,
-    "Tooltip": "Foxit PDF Editor Pro",
-    "MRicerca": "Foxit"
-  },
-  {
-    "Nome": "Fernbus Simulator",
-    "Link": "https://devuploads.com/lfjecc8xrabh",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/fernbus.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Fernbus Coach Simulator è il primo simulatore dei popolari autobus interurbani. Grazie alla cooperazione con FlixBus, Fernbus Coach Simulator fa immedesimare il giocatore nella vita quotidiana di un autista di autobus sulle Autobahn tedesche, autostrade e più di 40 città estremamente dettagliate.",
-    "Tooltip": "Fernbus Simulator",
-    "MRicerca": "Giochi"
-  },
-  {
-    "Nome": "Media Convert",
-    "Link": "https://devuploads.com/odjp3s5zemw7",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/MediaConvert.png",
-    "Sezione": "Tools AIMODS",
-    "Descrizione": "Il nuovo convertitore video e audio targato AIMODS è un potente strumento progettato per semplificare la gestione dei tuoi file multimediali. Supporta una vasta gamma di formati, tra cui MP4, AVI, MKV, MXF per video, e WAV, MP3, FLAC, AAC per audio, garantendo la massima versatilità.",
-    "Tooltip": "Media Convert v.0.0.0.0",
-    "MRicerca": "Tools AIMODS"
   }
 ]
