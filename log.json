@@ -3308,5 +3308,15 @@
     "MessaggioAPP": "Errore: The process cannot access the file 'C:\\Users\\pirre\\AppData\\Local\\Temp\\AIMODS-Store1.0.0.6.exe' because it is being used by another process.",
     "Timestamp": "05/12/2024 20:04:11",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "06.12.2024 12:44:28",
+    "Username": "Jule308"
   }
 ]
