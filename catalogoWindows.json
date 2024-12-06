@@ -1029,5 +1029,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "AdGuard",
+    "Link": "https://devuploads.com/tx9o4p750fo6",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Blocco pubblicità/AdGuard.png",
+    "Sezione": "Blocco pubblicità",
+    "Descrizione": null,
+    "Tooltip": "AdGuard",
+    "MRicerca": "Adguard"
   }
 ]
