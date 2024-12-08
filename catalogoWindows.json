@@ -1039,5 +1039,25 @@
     "Descrizione": null,
     "Tooltip": "AdGuard",
     "MRicerca": "Adguard"
+  },
+  {
+    "Nome": "Aiseesoft Screen Recorder",
+    "Link": "https://devuploads.com/y73ye913clb9",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Registratore%20Audio-Video/Aiseesoft%20Screen%20Recorder.png",
+    "Sezione": "Registratore Audio-Video",
+    "Descrizione": null,
+    "Tooltip": "Aiseesoft Screen Recorder",
+    "MRicerca": "Aiseesoft Screen Recorder"
+  },
+  {
+    "Nome": "Movavi Screen Recorder",
+    "Link": "https://devuploads.com/klsx2cu9t20q",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Registratore%20Audio-Video/Movavi%20Screen%20Recorder.png",
+    "Sezione": "Registratore Audio-Video",
+    "Descrizione": null,
+    "Tooltip": "Movavi Screen Recorder",
+    "MRicerca": "Movavi Screen Recorder"
   }
 ]
