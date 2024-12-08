@@ -1049,5 +1049,15 @@
     "Descrizione": null,
     "Tooltip": "Movavi Screen Recorder",
     "MRicerca": "Movavi Screen Recorder"
+  },
+  {
+    "Nome": "Bandicam",
+    "Link": "https://devuploads.com/18cxr1w1ua76",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Registratore%20Audio-Video/Bandicam.png",
+    "Sezione": "Registratore Audio-Video",
+    "Descrizione": null,
+    "Tooltip": "Bandicam",
+    "MRicerca": "Bandicam"
   }
 ]
