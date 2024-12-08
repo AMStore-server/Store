@@ -105,6 +105,18 @@
           "imageUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/acrobatpro.jpg",
           "type": "AcrobatDC",
           "link": "https://devuploads.com/5y04h20nq5jl"
+     },
+     {
+          "name": "Photoshop",
+          "imageUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/Photoshop.jpg",
+          "type": "Photoshop",
+          "link": "https://devuploads.com/unplfq3h1nww"
+     },
+     {
+          "name": "Illustrator",
+          "imageUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/illustrator.jpg",
+          "type": "Illustrator",
+          "link": "https://devuploads.com/zqu8h6cm6k62"
      }
     ]
   },
