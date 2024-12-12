@@ -3628,5 +3628,15 @@
     "MessaggioAPP": "Errore: An error occurred trying to start process 'https://devuploads.com/hr6huumz22by' with working directory 'C:\\Users\\flavi\\Downloads'. Applicazione non trovata.",
     "Timestamp": "11/12/2024 23:01:12",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: ",
+    "Timestamp": "12/12/2024 15:47:12",
+    "Username": "UTENTE"
   }
 ]
