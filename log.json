@@ -3688,5 +3688,15 @@
     "MessaggioAPP": "Errore: The process cannot access the file 'C:\\Users\\renat\\AppData\\Local\\Temp\\AIMODS-Store1.0.0.6.exe' because it is being used by another process.",
     "Timestamp": "13/12/2024 22:55:56",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: ",
+    "Timestamp": "13/12/2024 22:56:31",
+    "Username": "UTENTE"
   }
 ]
