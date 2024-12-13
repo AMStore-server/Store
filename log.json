@@ -3708,5 +3708,15 @@
     "MessaggioAPP": "Errore: ",
     "Timestamp": "13/12/2024 23:27:58",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione avvenuta con successo",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "14/12/2024 00:54:06",
+    "Username": "zkzkzk"
   }
 ]
