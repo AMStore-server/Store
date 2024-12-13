@@ -1059,5 +1059,15 @@
     "Descrizione": null,
     "Tooltip": "Bandicam",
     "MRicerca": "Bandicam"
+  },
+  {
+    "Nome": "Wondershare UniConverter",
+    "Link": "https://devuploads.com/7x03kc4tlpyt",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Convertitore/UniConverter.png",
+    "Sezione": "Convertitore",
+    "Descrizione": null,
+    "Tooltip": "Wondershare UniConverter",
+    "MRicerca": "UniConverter"
   }
 ]
