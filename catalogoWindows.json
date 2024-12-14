@@ -541,8 +541,8 @@
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "CCleaner Professional v6.25",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": ""
   },
   {
     "Nome": "StartAllBack",
@@ -1069,5 +1069,15 @@
     "Descrizione": null,
     "Tooltip": "Wondershare UniConverter",
     "MRicerca": "UniConverter"
+  },
+  {
+    "Nome": "CCleaner DAVIDE",
+    "Link": "https://devuploads.com/19vojak1v6m4",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/ccleaner.jpg",
+    "Sezione": "DAVIDE",
+    "Descrizione": null,
+    "Tooltip": "CCleaner",
+    "MRicerca": "ccleaner"
   }
 ]
