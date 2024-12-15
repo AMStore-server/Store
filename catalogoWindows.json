@@ -1077,5 +1077,15 @@
     "Descrizione": null,
     "Tooltip": "Wondershare UniConverter",
     "MRicerca": "UniConverter"
+  },
+  {
+    "Nome": "ACCA Edificius",
+    "Link": "https://devuploads.com/kib434lk6v8t",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Building%20Information%20Modeling/Edificius.png",
+    "Sezione": "Building Information Modeling",
+    "Descrizione": null,
+    "Tooltip": "ACCA Edificius",
+    "MRicerca": "Edificius"
   }
 ]
