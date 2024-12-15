@@ -719,10 +719,10 @@
   {
     "Nome": "Teardown",
     "Link": "https://t.me/c/1878469152/4612",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/AI/Teardown.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Teardown.png",
     "Sezione": "Giochi",
-    "Descrizione": null,
+    "Descrizione": "",
     "Tooltip": "Teardown",
     "MRicerca": "Teardown"
   },
