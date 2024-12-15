@@ -729,21 +729,21 @@
   {
     "Nome": "Assassin's Creed Syndacate",
     "Link": "https://devuploads.com/he7ub8115o7i",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Assassin's%20Creed%20Syndacate.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Assassins%20Creed%20Syndacate.png",
     "Sezione": "Giochi",
-    "Descrizione": null,
-    "Tooltip": null,
+    "Descrizione": "",
+    "Tooltip": "",
     "MRicerca": "Assassin's Creed Syndacate"
   },
   {
     "Nome": "Assassin's Creed Mirage",
     "Link": "https://devuploads.com/t65fjutj6aer",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Assassin's%20Creed%20Mirage.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Assassins%20Creed%20Mirage.png",
     "Sezione": "Giochi",
-    "Descrizione": null,
-    "Tooltip": null,
+    "Descrizione": "",
+    "Tooltip": "",
     "MRicerca": "Assassin's Creed Mirage"
   },
   {
