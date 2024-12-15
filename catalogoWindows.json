@@ -254,42 +254,50 @@
   {
     "Nome": "Autodesk Revit",
     "Link": "https://devuploads.com/1sukco621r70",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Autodesk/revit.jpg",
-    "Sezione": "Autodesk",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Building%20Information%20Modeling/Revit.png",
+    "Sezione": "Building Information Modeling",
     "Tooltip": "Autodesk Revit 2025",
-    "MRicerca": "Autodesk"
+    "MRicerca": "Revit",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Autodesk AutoCAD",
     "Link": "https://devuploads.com/n2zng89rr6hw",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Autodesk/Autocad.jpg",
-    "Sezione": "Autodesk",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Building%20Information%20Modeling/AutoCAD.png",
+    "Sezione": "Building Information Modeling",
     "Tooltip": "Autodesk AutoCAD 2025.0.1 Build v72.0.0",
-    "MRicerca": "Autodesk"
+    "MRicerca": "Autocad",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Autodesk Maya",
     "Link": "https://devuploads.com/w5cug44ntqx5",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Autodesk/maya.jpg",
-    "Sezione": "Autodesk",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Building%20Information%20Modeling/Maya.png",
+    "Sezione": "Building Information Modeling",
     "Tooltip": "Autodesk Maya 2025",
-    "MRicerca": "Autodesk"
+    "MRicerca": "Maya",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Enscape 3D",
     "Link": "https://devuploads.com/8sbvdqj9r1bc",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Autodesk/enscape.jpg",
-    "Sezione": "Autodesk",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Building%20Information%20Modeling/Enscape.png",
+    "Sezione": "Building Information Modeling",
     "Tooltip": "Enscape 3D v4.0.1.48 for Revit",
-    "MRicerca": "Autodesk"
+    "MRicerca": "Enscape",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Autodesk Inventor",
     "Link": "https://devuploads.com/x1on33ux4w3g",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Autodesk/Inventor.png",
-    "Sezione": "Autodesk",
-    "Descrizione": null,
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Building%20Information%20Modeling/Inventor.png",
+    "Sezione": "Building Information Modeling",
+    "Descrizione": "",
     "Tooltip": "Autodesk Inventor",
     "MRicerca": "Inventor"
   },
