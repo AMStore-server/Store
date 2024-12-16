@@ -3728,5 +3728,15 @@
     "MessaggioAPP": "Errore: The process cannot access the file 'C:\\Users\\Utente\\AppData\\Local\\Temp\\AIMODS-Store1.0.0.6.exe' because it is being used by another process.",
     "Timestamp": "16/12/2024 13:52:31",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Errore durante la creazione dell'handle della finestra.",
+    "Timestamp": "17/12/2024 00:58:53",
+    "Username": "UTENTE"
   }
 ]
