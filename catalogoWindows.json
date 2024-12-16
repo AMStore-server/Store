@@ -252,6 +252,16 @@
     "MRicerca": "Eset"
   },
   {
+    "Nome": "AdGuard",
+    "Link": "https://devuploads.com/tx9o4p750fo6",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Blocco pubblicità/AdGuard.png",
+    "Sezione": "Blocco pubblicità",
+    "Descrizione": null,
+    "Tooltip": "AdGuard",
+    "MRicerca": "Adguard"
+  },
+  {
     "Nome": "Autodesk Revit",
     "Link": "https://devuploads.com/1sukco621r70",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Building%20Information%20Modeling/Revit.png",
@@ -302,6 +312,16 @@
     "MRicerca": "Inventor"
   },
   {
+    "Nome": "ACCA Edificius",
+    "Link": "https://devuploads.com/kib434lk6v8t",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Building%20Information%20Modeling/Edificius.png",
+    "Sezione": "Building Information Modeling",
+    "Descrizione": null,
+    "Tooltip": "ACCA Edificius",
+    "MRicerca": "Edificius"
+  },
+  {
     "Nome": "Freemake Video Converter",
     "Link": "https://devuploads.com/2wf3pjhnng0u",
     "LinkR": "",
@@ -310,6 +330,16 @@
     "Descrizione": "Freemake Video Converter",
     "Tooltip": "",
     "MRicerca": "Frremake"
+  },
+  {
+    "Nome": "Wondershare UniConverter",
+    "Link": "https://devuploads.com/7x03kc4tlpyt",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Convertitore/UniConverter.png",
+    "Sezione": "Convertitore",
+    "Descrizione": null,
+    "Tooltip": "Wondershare UniConverter",
+    "MRicerca": "UniConverter"
   },
   {
     "Nome": "StreamFAB",
@@ -865,6 +895,36 @@
     "MRicerca": "Office"
   },
   {
+    "Nome": "Aiseesoft Screen Recorder",
+    "Link": "https://devuploads.com/y73ye913clb9",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Registratore%20Audio-Video/Aiseesoft%20Screen%20Recorder.png",
+    "Sezione": "Registratore Audio-Video",
+    "Descrizione": null,
+    "Tooltip": "Aiseesoft Screen Recorder",
+    "MRicerca": "Aiseesoft Screen Recorder"
+  },
+  {
+    "Nome": "Movavi Screen Recorder",
+    "Link": "https://devuploads.com/klsx2cu9t20q",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Registratore%20Audio-Video/Movavi%20Screen%20Recorder.png",
+    "Sezione": "Registratore Audio-Video",
+    "Descrizione": null,
+    "Tooltip": "Movavi Screen Recorder",
+    "MRicerca": "Movavi Screen Recorder"
+  },
+  {
+    "Nome": "Bandicam",
+    "Link": "https://devuploads.com/18cxr1w1ua76",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Registratore%20Audio-Video/Bandicam.png",
+    "Sezione": "Registratore Audio-Video",
+    "Descrizione": null,
+    "Tooltip": "Bandicam",
+    "MRicerca": "Bandicam"
+  },
+  {
     "Nome": "WinHubX",
     "Link": "https://github.com/Italian-Developer/WinHubX/releases/download/WinHubX/WinHubX.exe",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/WinHubX.jpg",
@@ -1027,65 +1087,5 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
-  },
-  {
-    "Nome": "AdGuard",
-    "Link": "https://devuploads.com/tx9o4p750fo6",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Blocco pubblicità/AdGuard.png",
-    "Sezione": "Blocco pubblicità",
-    "Descrizione": null,
-    "Tooltip": "AdGuard",
-    "MRicerca": "Adguard"
-  },
-  {
-    "Nome": "Aiseesoft Screen Recorder",
-    "Link": "https://devuploads.com/y73ye913clb9",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Registratore%20Audio-Video/Aiseesoft%20Screen%20Recorder.png",
-    "Sezione": "Registratore Audio-Video",
-    "Descrizione": null,
-    "Tooltip": "Aiseesoft Screen Recorder",
-    "MRicerca": "Aiseesoft Screen Recorder"
-  },
-  {
-    "Nome": "Movavi Screen Recorder",
-    "Link": "https://devuploads.com/klsx2cu9t20q",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Registratore%20Audio-Video/Movavi%20Screen%20Recorder.png",
-    "Sezione": "Registratore Audio-Video",
-    "Descrizione": null,
-    "Tooltip": "Movavi Screen Recorder",
-    "MRicerca": "Movavi Screen Recorder"
-  },
-  {
-    "Nome": "Bandicam",
-    "Link": "https://devuploads.com/18cxr1w1ua76",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Registratore%20Audio-Video/Bandicam.png",
-    "Sezione": "Registratore Audio-Video",
-    "Descrizione": null,
-    "Tooltip": "Bandicam",
-    "MRicerca": "Bandicam"
-  },
-  {
-    "Nome": "Wondershare UniConverter",
-    "Link": "https://devuploads.com/7x03kc4tlpyt",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Convertitore/UniConverter.png",
-    "Sezione": "Convertitore",
-    "Descrizione": null,
-    "Tooltip": "Wondershare UniConverter",
-    "MRicerca": "UniConverter"
-  },
-  {
-    "Nome": "ACCA Edificius",
-    "Link": "https://devuploads.com/kib434lk6v8t",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Building%20Information%20Modeling/Edificius.png",
-    "Sezione": "Building Information Modeling",
-    "Descrizione": null,
-    "Tooltip": "ACCA Edificius",
-    "MRicerca": "Edificius"
   }
 ]
