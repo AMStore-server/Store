@@ -584,11 +584,13 @@
   },
   {
     "Nome": "StartAllBack",
-    "Link": "https://devuploads.com/vufzn4p59i3b",
+    "Link": "https://devuploads.com/eut352n61lal",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/startallback.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "StartAllBack v3.8.8.5157",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
+    "MRicerca": "Gestione/Pulizia/Personalizzazione PC",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "EaseUS PCTrans",
