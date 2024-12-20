@@ -3768,5 +3768,15 @@
     "MessaggioAPP": "Errore: The process cannot access the file 'C:\\Users\\freedomDELL\\AppData\\Local\\Temp\\AIMODS-Store1.0.0.6.exe' because it is being used by another process.",
     "Timestamp": "19/12/2024 17:48:00",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: The process cannot access the file 'C:\\Users\\freedomDELL\\AppData\\Local\\Temp\\AIMODS-Store1.0.0.6.exe' because it is being used by another process.",
+    "Timestamp": "20/12/2024 18:43:56",
+    "Username": "UTENTE"
   }
 ]
