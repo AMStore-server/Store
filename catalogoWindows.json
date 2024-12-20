@@ -1,14 +1,13 @@
 [
   {
     "Nome": "Adobe Acrobat Pro",
-    "Link": {
-      "x64": "https://devuploads.com/6sen4hqel5nv",
-      "x32": "https://devuploads.com/fwy9ig3ltqk7"
-    },
+    "Link": "{\r\n  \"x64\": \"https://devuploads.com/6sen4hqel5nv\",\r\n  \"x32\": \"https://devuploads.com/fwy9ig3ltqk7\"\r\n}",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/acrobatpro.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Acrobat Pro v24.003.20112",
-    "MRicerca": "Adobe"
+    "MRicerca": "Adobe",
+    "LinkR": null,
+    "Descrizione": "Adobe Acrobat Pro è un software sviluppato da Adobe Systems per sistemi operativi macOS e Windows per la creazione e la modifica dei files in formato PDF"
   },
   {
     "Nome": "Adobe Photoshop",
@@ -82,7 +81,7 @@
   {
     "Nome": "Adobe Dimension",
     "Link": "https://devuploads.com/xzbexla17pr6",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/adobedimension.png",
     "Sezione": "Adobe",
     "Descrizione": "Dimensione Adobe è un software di rendering e progettazione 3D sviluppato da Adobe Systems per sistemi operativi macOS e Windows. È un editor di mockup basato su foto in cui modelli, foto e trame devono essere creati in software di terze parti prima di essere importati in Dimensione.",
