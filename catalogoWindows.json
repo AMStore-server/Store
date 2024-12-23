@@ -522,11 +522,13 @@
   },
   {
     "Nome": "Glary Utilities Pro",
-    "Link": "https://devuploads.com/shye8kzui1bk",
+    "Link": "https://devuploads.com/qbe45jid4bsn",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/glaryutilites.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Glary Utilities Pro v6.14.0.18",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
+    "MRicerca": "glary",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "DVDFab",
