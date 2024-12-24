@@ -578,23 +578,23 @@
   },
   {
     "Nome": "CCleaner",
-    "Link": "https://devuploads.com/19vojak1v6m4",
+    "Link": "https://devuploads.com/mjrw1aouyeze",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/ccleaner.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
-    "Tooltip": "CCleaner Professional v6.25",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC",
+    "Tooltip": "CCleaner Professional v6.31",
+    "MRicerca": "ccleaner",
     "LinkR": "",
     "Descrizione": ""
   },
   {
     "Nome": "StartAllBack",
-    "Link": "https://devuploads.com/eut352n61lal",
+    "Link": "https://devuploads.com/b5mvzvwttcht",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/startallback.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
-    "Tooltip": "StartAllBack v3.8.8.5157",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC",
-    "LinkR": null,
-    "Descrizione": null
+    "Tooltip": "StartAllBack v3.9",
+    "MRicerca": "StartAllBack",
+    "LinkR": "",
+    "Descrizione": ""
   },
   {
     "Nome": "EaseUS PCTrans",
