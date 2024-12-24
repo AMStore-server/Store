@@ -1093,5 +1093,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "Train Sim World",
+    "Link": "https://devuploads.com/bibcnnmx6i71",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Train%20Sim%20World.png",
+    "Sezione": "Giochi",
+    "Descrizione": null,
+    "Tooltip": "Train Sim World v5",
+    "MRicerca": "train"
   }
 ]
