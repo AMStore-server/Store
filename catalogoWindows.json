@@ -378,11 +378,13 @@
   },
   {
     "Nome": "4K Video Downloader Plus",
-    "Link": "https://devuploads.com/1hd2s25nol1j",
+    "Link": "https://devuploads.com/0o9z1ga2hohj",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/4kdownloader.jpg",
     "Sezione": "Downloader",
-    "Tooltip": "4K Video Downloader Plus v1.6.0.0085",
-    "MRicerca": "Downloader"
+    "Tooltip": "4K Video Downloader Plus v1.10.3.0161",
+    "MRicerca": "4k video",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "KeepStreams",
