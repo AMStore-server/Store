@@ -3808,5 +3808,15 @@
     "MessaggioAPP": "",
     "Timestamp": "23/12/2024 15:55:59",
     "Username": "Anatasi"
+  },
+  {
+    "LogRegisterAccount": "TRUE",
+    "MessaggioRegisterAccount": "Registrazione fallita, database in uso",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "",
+    "MessaggioAPP": "",
+    "Timestamp": "27/12/2024 16:15:57",
+    "Username": "martina"
   }
 ]
