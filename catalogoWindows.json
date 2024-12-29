@@ -508,11 +508,13 @@
   },
   {
     "Nome": "EaseUS Partition Master",
-    "Link": "https://devuploads.com/390ouiys1xo4",
+    "Link": "https://devuploads.com/e1x7gkigjdka",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/easeus.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
-    "Tooltip": "EaseUS Partition Master v18.5.0 Build 20240321",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
+    "Tooltip": "EaseUS Partition Master v19.5.0 ",
+    "MRicerca": "partition",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Recuva Business Edition",
