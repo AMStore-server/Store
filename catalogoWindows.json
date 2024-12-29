@@ -513,8 +513,8 @@
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "EaseUS Partition Master v19.5.0 ",
     "MRicerca": "partition",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": ""
   },
   {
     "Nome": "Recuva Business Edition",
@@ -1097,5 +1097,15 @@
     "Descrizione": null,
     "Tooltip": "Train Sim World v5",
     "MRicerca": "train"
+  },
+  {
+    "Nome": "Tenorshare 4DDIG",
+    "Link": "https://devuploads.com/ja152bz3pqta",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/Tenorshare%204DDIG.png",
+    "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+    "Descrizione": null,
+    "Tooltip": "Tenorshare 4DDIG 10.1.17",
+    "MRicerca": "Tenorshare"
   }
 ]
