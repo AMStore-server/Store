@@ -344,16 +344,6 @@
     "MRicerca": "UniConverter"
   },
   {
-    "Nome": "StreamFAB",
-    "Link": "https://devuploads.com/vk2aj211j1nn",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/DVDFab.jpg",
-    "Sezione": "Downloader",
-    "Tooltip": "Streamfab 6.1.9.4",
-    "MRicerca": "streamfab",
-    "LinkR": null,
-    "Descrizione": null
-  },
-  {
     "Nome": "IDM",
     "Link": "https://devuploads.com/sf9j8ohsw07s",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/IDM.jpg",
