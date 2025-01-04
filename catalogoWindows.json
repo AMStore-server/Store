@@ -1115,5 +1115,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "StreamFab",
+    "Link": "https://devuploads.com/vk2aj211j1nn",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/DVDFab.jpg",
+    "Sezione": "Downloader",
+    "Descrizione": "",
+    "Tooltip": "Streamfab 6.1.9.4",
+    "MRicerca": "streamfab"
   }
 ]
