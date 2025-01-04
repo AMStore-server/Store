@@ -431,16 +431,6 @@
     "Descrizione": "YT Saver è un'applicazione per il download e la conversione di video da oltre 10.000 piattaforme, inclusi YouTube, Instagram e TikTok. Permette di scaricare video fino a risoluzioni 8K e convertirli in oltre 20 formati diversi, come MP4 e MP3. Offre anche funzionalità avanzate come il download di playlist da servizi come Spotify, Tidal, etc e la modalità privata."
   },
   {
-    "Nome": "StreamFab",
-    "Link": "https://devuploads.com/vk2aj211j1nn",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/DVDFab.jpg",
-    "Sezione": "Downloader",
-    "Descrizione": null,
-    "Tooltip": "StreamFab v6.1.9.4",
-    "MRicerca": "streamfab"
-  },
-  {
     "Nome": "UniFab",
     "Link": "https://devuploads.com/bzeyzplxcm2g",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/unifab.jpg",
