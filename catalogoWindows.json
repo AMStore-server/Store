@@ -1115,5 +1115,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "RecordFab",
+    "Link": "https://devuploads.com/97pd17oj648a",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/RecordFab.png",
+    "Sezione": "Gestione Foto/Video e Editing",
+    "Descrizione": null,
+    "Tooltip": "RecordFab v1.0.0.7",
+    "MRicerca": "recordfab"
   }
 ]
