@@ -349,7 +349,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/DVDFab.jpg",
     "Sezione": "Downloader",
     "Tooltip": "Streamfab 6.1.9.4",
-    "MRicerca": "Downloader"
+    "MRicerca": "streamfab",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "IDM",
