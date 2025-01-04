@@ -436,7 +436,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/unifab.jpg",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "UniFab v2.0.2.1",
-    "MRicerca": "Gestione Foto/Video e Editing"
+    "MRicerca": "unifab",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "CorelDraw Technical Suite",
@@ -539,10 +541,12 @@
   {
     "Nome": "DVDFab",
     "Link": "https://devuploads.com/shihaucup5p7",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/dvdfab.jpg",
-    "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/DVDFab.png",
+    "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "DVDFab v13.0.2.5 x64",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
+    "MRicerca": "dvdfab",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Driver Easy",
