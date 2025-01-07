@@ -494,11 +494,13 @@
   },
   {
     "Nome": "CyberLink PowerDirector",
-    "Link": "https://devuploads.com/hseo14lhr1lv",
+    "Link": "https://devuploads.com/m78ge4hepldw",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/cyberlink%20power%20director%20ultimate.png",
     "Sezione": "Gestione Foto/Video e Editing",
-    "Tooltip": " CyberLink PowerDirector Ultimate 2024 v23.0.0828.0",
-    "MRicerca": "Gestione Foto/Video e Editing"
+    "Tooltip": "CyberLink PowerDirector Ultimate 2025 v23.0.1204.0",
+    "MRicerca": "cyberlink",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "SketchUp",
