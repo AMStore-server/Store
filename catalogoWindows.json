@@ -245,13 +245,13 @@
   },
   {
     "Nome": "ESET Endpoint Security",
-    "Link": "https://devuploads.com/fft9hwh3cdnz",
-    "LinkR": null,
+    "Link": "https://devuploads.com/om8lpreggft9",
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Antivirus/ESET%20Endpoint%20Securityf.png",
     "Sezione": "Antivirus",
-    "Descrizione": null,
-    "Tooltip": "ESET Endpoint Security v11.1.2052.0",
-    "MRicerca": "Eset"
+    "Descrizione": "",
+    "Tooltip": "ESET Endpoint Security v12.0.2038.0",
+    "MRicerca": "eset"
   },
   {
     "Nome": "AdGuard",
