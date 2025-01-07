@@ -204,12 +204,12 @@
   {
     "Nome": "Foxit PDF Editor Pro",
     "Link": "https://devuploads.com/068e5gdcd7tn",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Altro/FoxitPDF.png",
     "Sezione": "Altro",
-    "Descrizione": null,
+    "Descrizione": "",
     "Tooltip": "Foxit PDF Editor Pro",
-    "MRicerca": "Foxit"
+    "MRicerca": "foxit"
   },
   {
     "Nome": "Malwerbytes",
