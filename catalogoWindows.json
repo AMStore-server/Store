@@ -1127,5 +1127,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "Aiseesoft iPhone Unlocker",
+    "Link": "https://devuploads.com/vav7fw3xkzpd",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Sblocco%20iPhone/Aiseesoft%20iPhone%20Unlocker.png",
+    "Sezione": "Sblocco iPhone",
+    "Descrizione": null,
+    "Tooltip": "Aiseesoft iPhone Unlocker v2.0.88",
+    "MRicerca": "Unlocker"
   }
 ]
