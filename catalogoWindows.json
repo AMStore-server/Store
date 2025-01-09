@@ -32,11 +32,13 @@
   },
   {
     "Nome": "Adobe Illustrator",
-    "Link": "https://devuploads.com/nh3tpz0ba9c5",
+    "Link": "https://devuploads.com/6bgcon2wya1b",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/illustrator.jpg",
     "Sezione": "Adobe",
-    "Tooltip": "Adobe Illustrator 2024 v28.7.1.142",
-    "MRicerca": "Adobe"
+    "Tooltip": "Adobe Illustrator 2024 v29.1",
+    "MRicerca": "Adobe",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Adobe Premiere Pro",
