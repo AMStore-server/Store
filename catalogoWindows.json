@@ -1149,5 +1149,15 @@
     "Descrizione": null,
     "Tooltip": "Macrium Reflect X Workstation v10.0.8406",
     "MRicerca": "macrium"
+  },
+  {
+    "Nome": "Arcade Paradise: Digital Deluxe Edition",
+    "Link": "https://devuploads.com/pf7mkynncj29",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/ArcadeParadise.png",
+    "Sezione": "Giochi",
+    "Descrizione": null,
+    "Tooltip": "Arcade Paradise: Digital Deluxe Edition, v1.3.20230515.143309 + 8 DLCs + Bonus OST",
+    "MRicerca": "Giochi"
   }
 ]
