@@ -1139,5 +1139,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "Macrium Reflect X",
+    "Link": "https://devuploads.com/kmk5jsx8v7tu",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/Macrium%20Reflect.png",
+    "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+    "Descrizione": null,
+    "Tooltip": "Macrium Reflect X Workstation v10.0.8406",
+    "MRicerca": "macrium"
   }
 ]
