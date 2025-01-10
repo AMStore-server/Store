@@ -641,6 +641,16 @@
     "MRicerca": "Tenorshare"
   },
   {
+    "Nome": "Macrium Reflect X",
+    "Link": "https://devuploads.com/kmk5jsx8v7tu",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/Macrium%20Reflect.png",
+    "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+    "Descrizione": null,
+    "Tooltip": "Macrium Reflect X Workstation v10.0.8406",
+    "MRicerca": "macrium"
+  },
+  {
     "Nome": "Kingdom Hearts HD",
     "Link": "https://devuploads.com/ehgdpbt3bjzc",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/KingdomHeartsHD.jpg",
@@ -837,6 +847,26 @@
     "Descrizione": null,
     "Tooltip": "Train Sim World v5",
     "MRicerca": "train"
+  },
+  {
+    "Nome": "Arcade Paradise: Digital Deluxe Edition",
+    "Link": "https://devuploads.com/pf7mkynncj29",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/ArcadeParadise.png",
+    "Sezione": "Giochi",
+    "Descrizione": null,
+    "Tooltip": "Arcade Paradise: Digital Deluxe Edition, v1.3.20230515.143309 + 8 DLCs + Bonus OST",
+    "MRicerca": "Giochi"
+  },
+  {
+    "Nome": "Need For Speed Most Wanted Black Edition",
+    "Link": "https://devuploads.com/nq8mzryy2dwx",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/NeedForSpeedMostWanted.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Need for Speed: Most Wanted (2005) è a videogioco di corse sviluppato da EA Canada e pubblicato da Electronic Arts. È la nona puntata della serie Need for Speed ed è stata rilasciata nel novembre 2005 per piattaforme tra cui PC, PlayStation 2, Nintendo GameCube, Xbox e telefoni cellulari. Il gioco reintroduce le attività di polizia e combina il gameplay open world con le opzioni di personalizzazione dei veicoli dei precedenti titoli Underground. La storia coinvolge un corridore di strada solitario in competizione con 15 piloti d'élite nella città immaginaria di Rockport per diventare il pilota “più ricercato ”. Il gioco è stato ben accolto, con un recensore che gli ha dato un punteggio di 9,0 su 10, elogiando il suo gameplay e il design open world.",
+    "Tooltip": "Need For Speed Most Wanted Black Edition",
+    "MRicerca": "Giochi"
   },
   {
     "Nome": "Topaz Photo AI",
@@ -1139,35 +1169,5 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
-  },
-  {
-    "Nome": "Macrium Reflect X",
-    "Link": "https://devuploads.com/kmk5jsx8v7tu",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/Macrium%20Reflect.png",
-    "Sezione": "Gestione/Pulizia/Personalizzazione PC",
-    "Descrizione": null,
-    "Tooltip": "Macrium Reflect X Workstation v10.0.8406",
-    "MRicerca": "macrium"
-  },
-  {
-    "Nome": "Arcade Paradise: Digital Deluxe Edition",
-    "Link": "https://devuploads.com/pf7mkynncj29",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/ArcadeParadise.png",
-    "Sezione": "Giochi",
-    "Descrizione": null,
-    "Tooltip": "Arcade Paradise: Digital Deluxe Edition, v1.3.20230515.143309 + 8 DLCs + Bonus OST",
-    "MRicerca": "Giochi"
-  },
-  {
-    "Nome": "Need For Speed Most Wanted Black Edition",
-    "Link": "https://devuploads.com/nq8mzryy2dwx",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/NeedForSpeedMostWanted.png",
-    "Sezione": "Giochi",
-    "Descrizione": "Need for Speed: Most Wanted (2005) è a videogioco di corse sviluppato da EA Canada e pubblicato da Electronic Arts. È la nona puntata della serie Need for Speed ed è stata rilasciata nel novembre 2005 per piattaforme tra cui PC, PlayStation 2, Nintendo GameCube, Xbox e telefoni cellulari. Il gioco reintroduce le attività di polizia e combina il gameplay open world con le opzioni di personalizzazione dei veicoli dei precedenti titoli Underground. La storia coinvolge un corridore di strada solitario in competizione con 15 piloti d'élite nella città immaginaria di Rockport per diventare il pilota “più ricercato ”. Il gioco è stato ben accolto, con un recensore che gli ha dato un punteggio di 9,0 su 10, elogiando il suo gameplay e il design open world.",
-    "Tooltip": "Need For Speed Most Wanted Black Edition",
-    "MRicerca": "Giochi"
   }
 ]
