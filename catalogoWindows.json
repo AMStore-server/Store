@@ -241,7 +241,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Antivirus/bitdefender.jpg",
     "Sezione": "Antivirus",
     "Tooltip": "Bitdefender Total Security",
-    "MRicerca": "Antivirus"
+    "MRicerca": "Antivirus",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Avast Premium Security",
@@ -1012,7 +1014,7 @@
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Registratore%20Audio-Video/Bandicam.png",
     "Sezione": "Registratore Audio-Video",
-    "Descrizione": "",
+    "Descrizione": "Bandicam è un leggero programma di registrazione video per Windows che può catturaretutto quello che avviene sullo schermo in un file video di alta qualità.",
     "Tooltip": "Bandicam",
     "MRicerca": "Bandicam"
   },
