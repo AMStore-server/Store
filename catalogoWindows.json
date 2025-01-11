@@ -1,16 +1,13 @@
 [
   {
     "Nome": "Adobe Acrobat Pro",
-    "Link": {
-      "x64": "https://devuploads.com/6sen4hqel5nv",
-      "x32": "https://devuploads.com/fwy9ig3ltqk7"
-    },
+    "Link": "{\r\n  \"x64\": \"https://devuploads.com/6sen4hqel5nv\",\r\n  \"x32\": \"https://devuploads.com/fwy9ig3ltqk7\"\r\n}",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/acrobatpro.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Acrobat Pro",
     "MRicerca": "acrobat",
     "LinkR": "",
-    "Descrizione": "Adobe Acrobat è un software di tipografia digitale sviluppato da Adobe, che consente di creare, modificare, convertire, compilare, firmare e condividere file in formato PDF (Portable Document Format)."
+    "Descrizione": "Adobe Acrobat Pro è un software potente e versatile sviluppato da Adobe Systems per la creazione, modifica e gestione di file PDF (Portable Document Format). È ampiamente utilizzato in ambito professionale per la sua capacità di manipolare documenti in modo efficiente."
   },
   {
     "Nome": "Adobe Photoshop",
@@ -37,8 +34,8 @@
     "Sezione": "Adobe",
     "Tooltip": "Adobe Illustrator 2024 v29.1",
     "MRicerca": "Adobe",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "Adobe Illustrator è un software di grafica vettoriale sviluppato da Adobe Inc. È uno strumento molto popolare tra designer, illustratori e artisti per creare e modificare immagini e design."
   },
   {
     "Nome": "Adobe Premiere Pro",
@@ -46,7 +43,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/premiere.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Premiere Pro 2024 v24.4.1.002",
-    "MRicerca": "Adobe"
+    "MRicerca": "Adobe",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Adobe InDesign",
@@ -54,7 +53,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/b63ba1c5-22d8-4bfb-b784-8b3a28b820db%20(1).png",
     "Sezione": "Adobe",
     "Tooltip": "Adobe InDesign 2024 v19.5.0.084",
-    "MRicerca": "Adobe"
+    "MRicerca": "Adobe",
+    "LinkR": null,
+    "Descrizione": "Adobe InDesign è un software di desktop publishing (DTP) sviluppato da Adobe Systems, ampiamente utilizzato per la creazione di layout e design grafici per una varietà di pubblicazioni."
   },
   {
     "Nome": "Adobe Lightroom Classic",
@@ -62,7 +63,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Adobe/lightroom.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Lightroom Classic v13.4.0.202406181129",
-    "MRicerca": "Adobe"
+    "MRicerca": "Adobe",
+    "LinkR": null,
+    "Descrizione": "Adobe Lightroom Classic è un software di editing e gestione fotografica sviluppato da Adobe Systems, particolarmente apprezzato dai fotografi professionisti e dagli appassionati."
   },
   {
     "Nome": "Adobe After Effects",
@@ -71,8 +74,8 @@
     "Sezione": "Adobe",
     "Tooltip": "Adobe After Effects 2024_v.24.6.2.002",
     "MRicerca": "Adobe",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "Adobe After Effects è un software di compositing e animazione grafica sviluppato da Adobe Inc. È ampiamente utilizzato nel campo della produzione video e della post-produzione per creare effetti visivi dinamici e animazioni di alta qualità."
   },
   {
     "Nome": "Adobe Master Collection",
@@ -81,7 +84,8 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/adobemastercollection.png",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Master Collection 2024 v8",
-    "MRicerca": "Adobe"
+    "MRicerca": "Adobe",
+    "Descrizione": "Adobe Master Collection è un pacchetto software completo di Adobe Systems che comprende una serie di applicazioni professionali per la creazione, l'editing e la gestione di contenuti multimediali. È particolarmente apprezzato da professionisti del design, della fotografia, del video e del web."
   },
   {
     "Nome": "Adobe Dimension",
@@ -89,7 +93,7 @@
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/adobedimension.png",
     "Sezione": "Adobe",
-    "Descrizione": "Dimensione Adobe è un software di rendering e progettazione 3D sviluppato da Adobe Systems per sistemi operativi macOS e Windows. È un editor di mockup basato su foto in cui modelli, foto e trame devono essere creati in software di terze parti prima di essere importati in Dimensione.",
+    "Descrizione": "Adobe Dimension è un software di grafica 3D sviluppato da Adobe Systems, progettato per facilitare la creazione di immagini e composizioni 3D in modo semplice e intuitivo.",
     "Tooltip": "Adobe Dimension v4.0.4",
     "MRicerca": "Adobe"
   },
@@ -258,10 +262,10 @@
   {
     "Nome": "AdGuard",
     "Link": "https://devuploads.com/tx9o4p750fo6",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Blocco pubblicità/AdGuard.png",
     "Sezione": "Blocco pubblicità",
-    "Descrizione": null,
+    "Descrizione": "AdGuard è un software progettato per bloccare annunci pubblicitari, tracker e siti web dannosi. È disponibile su diverse piattaforme, tra cui Windows, macOS, Android e iOS.",
     "Tooltip": "AdGuard",
     "MRicerca": "Adguard"
   },
@@ -318,10 +322,10 @@
   {
     "Nome": "ACCA Edificius",
     "Link": "https://devuploads.com/kib434lk6v8t",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Building%20Information%20Modeling/Edificius.png",
     "Sezione": "Building Information Modeling",
-    "Descrizione": null,
+    "Descrizione": "ACCA Edificius è un software di progettazione architettonica e di gestione della costruzione, sviluppato da ACCA Software, un'azienda italiana specializzata in soluzioni informatiche per il settore delle costruzioni. Ecco alcune delle sue caratteristiche principali",
     "Tooltip": "ACCA Edificius",
     "MRicerca": "Edificius"
   },
