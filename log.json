@@ -3908,5 +3908,15 @@
     "MessaggioAPP": "Errore: ",
     "Timestamp": "10/01/2025 20:40:52",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Errore durante la creazione dell'handle della finestra.",
+    "Timestamp": "11/01/2025 23:37:44",
+    "Username": "UTENTE"
   }
 ]
