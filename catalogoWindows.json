@@ -249,7 +249,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Antivirus/avast%20premium%20security.png",
     "Sezione": "Antivirus",
     "Tooltip": "Avast Premium Security v24.9.9452.875",
-    "MRicerca": "Antivirus"
+    "MRicerca": "Antivirus",
+    "LinkR": null,
+    "Descrizione": "Avast Premium Security è un software di sicurezza informatica progettato per proteggere i dispositivi da vari tipi di minacce informatiche."
   },
   {
     "Nome": "ESET Endpoint Security",
@@ -278,8 +280,8 @@
     "Sezione": "Building Information Modeling",
     "Tooltip": "Autodesk Revit 2025",
     "MRicerca": "Revit",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "Autodesk Revit è un software di progettazione e modellazione per l'architettura, l'ingegneria e le costruzioni, sviluppato da Autodesk. È ampiamente utilizzato nel settore delle costruzioni per il Building Information Modeling (BIM)."
   },
   {
     "Nome": "Autodesk AutoCAD",
@@ -288,8 +290,8 @@
     "Sezione": "Building Information Modeling",
     "Tooltip": "Autodesk AutoCAD 2025.0.1 Build v72.0.0",
     "MRicerca": "Autocad",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "Autodesk AutoCAD è un software di progettazione assistita da computer (CAD) molto utilizzato nel settore dell'architettura, dell'ingegneria e della progettazione industriale."
   },
   {
     "Nome": "Autodesk Maya",
@@ -298,8 +300,8 @@
     "Sezione": "Building Information Modeling",
     "Tooltip": "Autodesk Maya 2025",
     "MRicerca": "Maya",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "Autodesk Maya è un software di animazione e modellazione 3D ampiamente utilizzato nell'industria dell'animazione, dei videogiochi, della visualizzazione architettonica e degli effetti visivi."
   },
   {
     "Nome": "Enscape 3D",
@@ -317,7 +319,7 @@
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Building%20Information%20Modeling/Inventor.png",
     "Sezione": "Building Information Modeling",
-    "Descrizione": "",
+    "Descrizione": "Autodesk Inventor è un software di progettazione assistita da computer (CAD) 3D, sviluppato da Autodesk, utilizzato principalmente per la progettazione meccanica e l'ingegneria.",
     "Tooltip": "Autodesk Inventor",
     "MRicerca": "Inventor"
   },
@@ -1007,10 +1009,10 @@
   {
     "Nome": "Bandicam",
     "Link": "https://devuploads.com/18cxr1w1ua76",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Registratore%20Audio-Video/Bandicam.png",
     "Sezione": "Registratore Audio-Video",
-    "Descrizione": null,
+    "Descrizione": "",
     "Tooltip": "Bandicam",
     "MRicerca": "Bandicam"
   },
@@ -1152,7 +1154,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/VPN/aviraphantomvpn.jpg",
     "Sezione": "VPN",
     "Tooltip": "Avira Phantom VPN Pro v2.44.1.19908",
-    "MRicerca": "VPN"
+    "MRicerca": "VPN",
+    "LinkR": null,
+    "Descrizione": "Avira Phantom è un servizio di VPN (Virtual Private Network) offerto da Avira, una nota azienda di sicurezza informatica."
   },
   {
     "Nome": "Xara Photo and Graphic Designer Plus",
