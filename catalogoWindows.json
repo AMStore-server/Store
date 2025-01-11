@@ -32,11 +32,13 @@
   },
   {
     "Nome": "Adobe Illustrator",
-    "Link": "https://devuploads.com/nh3tpz0ba9c5",
+    "Link": "https://devuploads.com/6bgcon2wya1b",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/illustrator.jpg",
     "Sezione": "Adobe",
-    "Tooltip": "Adobe Illustrator 2024 v28.7.1.142",
-    "MRicerca": "Adobe"
+    "Tooltip": "Adobe Illustrator 2024 v29.1",
+    "MRicerca": "Adobe",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Adobe Premiere Pro",
@@ -145,9 +147,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Social/64gram.jpg",
     "Sezione": "Altro",
     "Tooltip": "64Gram v1.1.45",
-    "MRicerca": "Altro",
+    "MRicerca": "64Gram",
     "LinkR": "",
-    "Descrizione": ""
+    "Descrizione": "64Gram è un'applicazione non ufficiale di Telegram Desktop, progettata per offrire un'esperienza migliorata rispetto alla versione standard di Telegram con funzionalità aggiuntive e una maggiore personalizzazione."
   },
   {
     "Nome": "Mountain Duck",
@@ -204,12 +206,12 @@
   {
     "Nome": "Foxit PDF Editor Pro",
     "Link": "https://devuploads.com/068e5gdcd7tn",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/Foxit%20PDF.png",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Altro/FoxitPDF.png",
     "Sezione": "Altro",
-    "Descrizione": null,
+    "Descrizione": "",
     "Tooltip": "Foxit PDF Editor Pro",
-    "MRicerca": "Foxit"
+    "MRicerca": "foxit"
   },
   {
     "Nome": "Malwerbytes",
@@ -245,13 +247,13 @@
   },
   {
     "Nome": "ESET Endpoint Security",
-    "Link": "https://devuploads.com/fft9hwh3cdnz",
-    "LinkR": null,
+    "Link": "https://devuploads.com/om8lpreggft9",
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Antivirus/ESET%20Endpoint%20Securityf.png",
     "Sezione": "Antivirus",
-    "Descrizione": null,
-    "Tooltip": "ESET Endpoint Security v11.1.2052.0",
-    "MRicerca": "Eset"
+    "Descrizione": "",
+    "Tooltip": "ESET Endpoint Security v12.0.2038.0",
+    "MRicerca": "eset"
   },
   {
     "Nome": "AdGuard",
@@ -344,14 +346,6 @@
     "MRicerca": "UniConverter"
   },
   {
-    "Nome": "StreamFAB",
-    "Link": "https://devuploads.com/vk2aj211j1nn",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/DVDFab.jpg",
-    "Sezione": "Downloader",
-    "Tooltip": "Streamfab 6.1.9.4",
-    "MRicerca": "Downloader"
-  },
-  {
     "Nome": "IDM",
     "Link": "https://devuploads.com/sf9j8ohsw07s",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/IDM.jpg",
@@ -383,8 +377,8 @@
     "Sezione": "Downloader",
     "Tooltip": "4K Video Downloader Plus v1.10.3.0161",
     "MRicerca": "4k video",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "4K Video Downloader è un'applicazione multipiattaforma che consente di salvare video di alta qualità da YouTube e altri siti web in pochi secondi."
   },
   {
     "Nome": "KeepStreams",
@@ -431,12 +425,24 @@
     "Descrizione": "YT Saver è un'applicazione per il download e la conversione di video da oltre 10.000 piattaforme, inclusi YouTube, Instagram e TikTok. Permette di scaricare video fino a risoluzioni 8K e convertirli in oltre 20 formati diversi, come MP4 e MP3. Offre anche funzionalità avanzate come il download di playlist da servizi come Spotify, Tidal, etc e la modalità privata."
   },
   {
+    "Nome": "StreamFab",
+    "Link": "https://devuploads.com/vk2aj211j1nn",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/DVDFab.jpg",
+    "Sezione": "Downloader",
+    "Descrizione": "",
+    "Tooltip": "Streamfab v6.1.9.4",
+    "MRicerca": "streamfab"
+  },
+  {
     "Nome": "UniFab",
     "Link": "https://devuploads.com/bzeyzplxcm2g",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/unifab.jpg",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "UniFab v2.0.2.1",
-    "MRicerca": "Gestione Foto/Video e Editing"
+    "MRicerca": "unifab",
+    "LinkR": "",
+    "Descrizione": ""
   },
   {
     "Nome": "CorelDraw Technical Suite",
@@ -490,11 +496,13 @@
   },
   {
     "Nome": "CyberLink PowerDirector",
-    "Link": "https://devuploads.com/hseo14lhr1lv",
+    "Link": "https://devuploads.com/m78ge4hepldw",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/cyberlink%20power%20director%20ultimate.png",
     "Sezione": "Gestione Foto/Video e Editing",
-    "Tooltip": " CyberLink PowerDirector Ultimate 2024 v23.0.0828.0",
-    "MRicerca": "Gestione Foto/Video e Editing"
+    "Tooltip": "CyberLink PowerDirector Ultimate 2025 v23.0.1204.0",
+    "MRicerca": "cyberlink",
+    "LinkR": "",
+    "Descrizione": ""
   },
   {
     "Nome": "SketchUp",
@@ -507,14 +515,34 @@
     "MRicerca": "SketchUp"
   },
   {
+    "Nome": "DVDFab",
+    "Link": "https://devuploads.com/shihaucup5p7",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/DVDFab.png",
+    "Sezione": "Gestione Foto/Video e Editing",
+    "Tooltip": "DVDFab v13.0.2.5 x64",
+    "MRicerca": "dvdfab",
+    "LinkR": "",
+    "Descrizione": ""
+  },
+  {
+    "Nome": "RecordFab",
+    "Link": "https://devuploads.com/97pd17oj648a",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/RecordFab.png",
+    "Sezione": "Gestione Foto/Video e Editing",
+    "Descrizione": null,
+    "Tooltip": "RecordFab v1.0.0.7",
+    "MRicerca": "recordfab"
+  },
+  {
     "Nome": "EaseUS Partition Master",
     "Link": "https://devuploads.com/e1x7gkigjdka",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/easeus.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "EaseUS Partition Master v19.5.0 ",
     "MRicerca": "partition",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": ""
   },
   {
     "Nome": "Recuva Business Edition",
@@ -522,7 +550,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/Recuva.jpg",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Recuva Business Edition v1.53.2095",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
+    "MRicerca": "recuva",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "Glary Utilities Pro",
@@ -533,14 +563,6 @@
     "MRicerca": "glary",
     "LinkR": null,
     "Descrizione": null
-  },
-  {
-    "Nome": "DVDFab",
-    "Link": "https://devuploads.com/shihaucup5p7",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/dvdfab.jpg",
-    "Sezione": "Gestione/Pulizia/Personalizzazione PC",
-    "Tooltip": "DVDFab v13.0.2.5 x64",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
   },
   {
     "Nome": "Driver Easy",
@@ -607,6 +629,26 @@
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "EaseUS Todo PCTrans v13.17",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
+  },
+  {
+    "Nome": "Tenorshare 4DDIG",
+    "Link": "https://devuploads.com/ja152bz3pqta",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/Tenorshare%204DDIG.png",
+    "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+    "Descrizione": null,
+    "Tooltip": "Tenorshare 4DDIG 10.1.17",
+    "MRicerca": "Tenorshare"
+  },
+  {
+    "Nome": "Macrium Reflect X",
+    "Link": "https://devuploads.com/kmk5jsx8v7tu",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/Macrium%20Reflect.png",
+    "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+    "Descrizione": null,
+    "Tooltip": "Macrium Reflect X Workstation v10.0.8406",
+    "MRicerca": "macrium"
   },
   {
     "Nome": "Kingdom Hearts HD",
@@ -797,6 +839,36 @@
     "MRicerca": "Giochi"
   },
   {
+    "Nome": "Train Sim World",
+    "Link": "https://devuploads.com/bibcnnmx6i71",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Train%20Sim%20World.png",
+    "Sezione": "Giochi",
+    "Descrizione": null,
+    "Tooltip": "Train Sim World v5",
+    "MRicerca": "train"
+  },
+  {
+    "Nome": "Arcade Paradise: Digital Deluxe Edition",
+    "Link": "https://devuploads.com/pf7mkynncj29",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/ArcadeParadise.png",
+    "Sezione": "Giochi",
+    "Descrizione": null,
+    "Tooltip": "Arcade Paradise: Digital Deluxe Edition, v1.3.20230515.143309 + 8 DLCs + Bonus OST",
+    "MRicerca": "Giochi"
+  },
+  {
+    "Nome": "Need For Speed Most Wanted Black Edition",
+    "Link": "https://devuploads.com/nq8mzryy2dwx",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/NeedForSpeedMostWanted.png",
+    "Sezione": "Giochi",
+    "Descrizione": "Need for Speed: Most Wanted (2005) è a videogioco di corse sviluppato da EA Canada e pubblicato da Electronic Arts. È la nona puntata della serie Need for Speed ed è stata rilasciata nel novembre 2005 per piattaforme tra cui PC, PlayStation 2, Nintendo GameCube, Xbox e telefoni cellulari. Il gioco reintroduce le attività di polizia e combina il gameplay open world con le opzioni di personalizzazione dei veicoli dei precedenti titoli Underground. La storia coinvolge un corridore di strada solitario in competizione con 15 piloti d'élite nella città immaginaria di Rockport per diventare il pilota “più ricercato ”. Il gioco è stato ben accolto, con un recensore che gli ha dato un punteggio di 9,0 su 10, elogiando il suo gameplay e il design open world.",
+    "Tooltip": "Need For Speed Most Wanted Black Edition",
+    "MRicerca": "Giochi"
+  },
+  {
     "Nome": "Topaz Photo AI",
     "Link": "https://devuploads.com/ejdrv7cqsqyx",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/topaz.jpg",
@@ -935,6 +1007,16 @@
     "MRicerca": "Bandicam"
   },
   {
+    "Nome": "Aiseesoft iPhone Unlocker",
+    "Link": "https://devuploads.com/vav7fw3xkzpd",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Sblocco%20iPhone/Aiseesoft%20iPhone%20Unlocker.png",
+    "Sezione": "Sblocco iPhone",
+    "Descrizione": null,
+    "Tooltip": "Aiseesoft iPhone Unlocker v2.0.88",
+    "MRicerca": "Unlocker"
+  },
+  {
     "Nome": "WinHubX",
     "Link": "https://github.com/Italian-Developer/WinHubX/releases/download/WinHubX/WinHubX.exe",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/WinHubX.jpg",
@@ -1005,16 +1087,6 @@
     "Descrizione": "Calibre 7.20",
     "Tooltip": null,
     "MRicerca": "Calibre"
-  },
-  {
-    "Nome": "Tenorshare 4DDIG",
-    "Link": "https://devuploads.com/ja152bz3pqta",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/Tenorshare.png",
-    "Sezione": "Tools AIMODS",
-    "Descrizione": null,
-    "Tooltip": "Tenorshare 4DDIG 10.1.17",
-    "MRicerca": "Tenorshare"
   },
   {
     "Nome": "PassFab For RAR",
@@ -1097,15 +1169,5 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
-  },
-  {
-    "Nome": "Train Sim World",
-    "Link": "https://devuploads.com/bibcnnmx6i71",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Train%20Sim%20World.png",
-    "Sezione": "Giochi",
-    "Descrizione": null,
-    "Tooltip": "Train Sim World v5",
-    "MRicerca": "train"
   }
 ]
