@@ -181,7 +181,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/ekahau.jpg",
     "Sezione": "Altro",
     "Tooltip": "Ekahau Ai Pro 11.6.0",
-    "MRicerca": "Altro"
+    "MRicerca": "Altro",
+    "LinkR": null,
+    "Descrizione": "Ekahau è una piattaforma completa per la progettazione, ottimizzazione e gestione delle reti Wi-Fi, particolarmente utilizzata in ambienti aziendali. Offre una serie di strumenti avanzati per garantire prestazioni ottimali e affidabili delle reti wireless."
   },
   {
     "Nome": "VMWare",
@@ -314,8 +316,8 @@
     "Sezione": "Building Information Modeling",
     "Tooltip": "Enscape 3D v4.0.1.48 for Revit",
     "MRicerca": "Enscape",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "Enscape 3D è un plugin di rendering in tempo reale e realtà virtuale progettato per integrarsi perfettamente con strumenti di progettazione come Revit, SketchUp, Rhino, ArchiCAD e Vectorworks. È utilizzato principalmente da architetti, progettisti e paesaggisti per visualizzare e presentare i loro progetti in modo più interattivo e realistico."
   },
   {
     "Nome": "Autodesk Inventor",
@@ -500,7 +502,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/easeusvideoeditor.png",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "EaseUS Video Editor Pro 2.4.0 Build 20240910 ",
-    "MRicerca": "Gestione Foto/Video e Editing"
+    "MRicerca": "Gestione Foto/Video e Editing",
+    "LinkR": null,
+    "Descrizione": "EaseUS Video Editor è un software di editing video gratuito e intuitivo, ideale sia per principianti che per utenti avanzati. Offre una vasta gamma di funzionalità per creare video professionali senza sforzo."
   },
   {
     "Nome": "Face Rig",
@@ -538,7 +542,7 @@
     "Tooltip": "DVDFab v13.0.2.5 x64",
     "MRicerca": "dvdfab",
     "LinkR": "",
-    "Descrizione": ""
+    "Descrizione": "DVDFab è un software multimediale completo che offre una vasta gamma di soluzioni per la gestione dei DVD, Blu-ray e 4K UHD. È noto per le sue capacità di copia, conversione, creazione e riproduzione di dischi."
   },
   {
     "Nome": "RecordFab",
@@ -558,7 +562,7 @@
     "Tooltip": "EaseUS Partition Master v19.5.0 ",
     "MRicerca": "partition",
     "LinkR": "",
-    "Descrizione": ""
+    "Descrizione": "EaseUS Partition Master è un software di gestione delle partizioni per Windows. È progettato per aiutare gli utenti a creare, ridimensionare, eliminare e combinare partizioni in modo semplice e sicuro."
   },
   {
     "Nome": "Recuva Business Edition",
@@ -588,7 +592,7 @@
     "Tooltip": "Driver Easy Professional v6.0.025691",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC",
     "LinkR": "",
-    "Descrizione": ""
+    "Descrizione": "Driver Easy è un software di aggiornamento driver per Windows. È progettato per aiutarti a mantenere i driver del tuo sistema operativo aggiornati, il che può risolvere molti problemi di compatibilità e prestazioni del computer."
   },
   {
     "Nome": "WallpaperEngine",
@@ -644,7 +648,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/GestioneHDD-SSD/easeustodoptrans.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "EaseUS Todo PCTrans v13.17",
-    "MRicerca": "Gestione/Pulizia/Personalizzazione PC"
+    "MRicerca": "Gestione/Pulizia/Personalizzazione PC",
+    "LinkR": null,
+    "Descrizione": "EaseUS PCTrans è un software di trasferimento dati progettato per aiutarti a spostare facilmente file, programmi, impostazioni e profili utente da un vecchio PC a uno nuovo senza dover reinstallare nulla. È particolarmente utile quando stai passando a un nuovo computer o aggiornando il tuo sistema operativo."
   },
   {
     "Nome": "Macrium Reflect X",
@@ -755,8 +761,8 @@
     "Sezione": "Giochi",
     "Tooltip": "DIRT 5 Year One Edition v1.2767.60.0 + DLCs",
     "MRicerca": "Giochi",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "DIRT 5 Year One Edition è un'edizione speciale del gioco di corse off-road DIRT 5, sviluppato da Codemasters. Questa edizione include contenuti esclusivi e aggiornamenti che saranno rilasciati nei primi 12 mesi dopo il lancio del gioco."
   },
   {
     "Nome": "The Casting of Frank Stone",
@@ -788,7 +794,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/enotria.png",
     "Sezione": "Giochi",
     "Tooltip": "Enotria",
-    "MRicerca": "Giochi"
+    "MRicerca": "Giochi",
+    "LinkR": null,
+    "Descrizione": "Enotria: The Last Song è un videogioco action RPG in stile Souls sviluppato da Jyamma Games. È ambientato in un mondo ispirato dal folklore italiano, dove il sole più luminoso proietta l'ombra più oscura. Il giocatore assume il ruolo di un personaggio senza maschera, libero dal destino predeterminato, e deve liberare il mondo dalla stagnazione usando il potere dell'Ardore."
   },
   {
     "Nome": "Silent Hill 2",
@@ -804,7 +812,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/dragonballsparkingzero.png",
     "Sezione": "Giochi",
     "Tooltip": "DRAGON BALL: Sparking! ZERO, v1003.003.003.003.002 + 5 DLCs + Windows 7 Fix",
-    "MRicerca": "Giochi"
+    "MRicerca": "Giochi",
+    "LinkR": null,
+    "Descrizione": "Dragon Ball Sparking! Zero è un videogioco di combattimento 3D sviluppato da Spike Chunsoft e pubblicato da Bandai Namco Entertainment. È il sequel di Dragon Ball Z: Budokai Tenkaichi 3 e fa parte della serie Budokai Tenkaichi."
   },
   {
     "Nome": "TG Card Shop Simulator",
