@@ -145,7 +145,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/davinci.jpg",
     "Sezione": "Altro",
     "Tooltip": "DaVinci Resolve Studio 19.0.0.25",
-    "MRicerca": "Altro"
+    "MRicerca": "Altro",
+    "LinkR": null,
+    "Descrizione": "DaVinci Resolve è un software di editing video professionale sviluppato da Blackmagic Design. È noto per la sua capacità di integrare montaggio, correzione colore, effetti visivi e post produzione audio in un'unica applicazione. DaVinci Resolve è utilizzato da professionisti di Hollywood e offre una vasta gamma di strumenti avanzati per la creazione di contenuti video di alta qualità."
   },
   {
     "Nome": "64Gram",
@@ -242,8 +244,8 @@
     "Sezione": "Antivirus",
     "Tooltip": "Bitdefender Total Security",
     "MRicerca": "Antivirus",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "Bitdefender è una rinomata azienda di sicurezza informatica che offre una gamma di prodotti e servizi per proteggere dispositivi e reti da minacce digitali come virus, malware, ransomware, e altre minacce online."
   },
   {
     "Nome": "Avast Premium Security",
@@ -460,7 +462,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/coreldraw.jpg",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "CorelDraw Technical Suite 2024 v25.0.0.230",
-    "MRicerca": "Gestione Foto/Video e Editing"
+    "MRicerca": "Gestione Foto/Video e Editing",
+    "LinkR": null,
+    "Descrizione": "La CorelDRAW Technical Suite è una collezione completa di applicazioni professionali per la progettazione tecnica e la documentazione di alto impatto. È progettata per soddisfare le esigenze di vari settori, come la manifattura, l'ingegneria, l'architettura e l'alta tecnologia."
   },
   {
     "Nome": "Wondershare Filmora",
@@ -514,7 +518,7 @@
     "Tooltip": "CyberLink PowerDirector Ultimate 2025 v23.0.1204.0",
     "MRicerca": "cyberlink",
     "LinkR": "",
-    "Descrizione": ""
+    "Descrizione": "CyberLink PowerDirector è un software di montaggio video avanzato e intuitivo, disponibile per Windows e Mac. È noto per la sua capacità di creare video professionali con una vasta gamma di strumenti e funzionalità."
   },
   {
     "Nome": "SketchUp",
@@ -622,7 +626,7 @@
     "Tooltip": "CCleaner Professional v6.31",
     "MRicerca": "ccleaner",
     "LinkR": "",
-    "Descrizione": ""
+    "Descrizione": "CCleaner è un popolare software di ottimizzazione e pulizia del sistema sviluppato da Piriform (ora parte di Avast). È progettato per migliorare le prestazioni del tuo computer rimuovendo file temporanei, cookie, file di registro inutili, e altri dati che possono accumularsi nel tempo e rallentare il sistema."
   },
   {
     "Nome": "StartAllBack",
@@ -750,7 +754,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/dirt5.jpg",
     "Sezione": "Giochi",
     "Tooltip": "DIRT 5 Year One Edition v1.2767.60.0 + DLCs",
-    "MRicerca": "Giochi"
+    "MRicerca": "Giochi",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "The Casting of Frank Stone",
@@ -1058,7 +1064,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/datalock.png",
     "Sezione": "Tools AIMODS",
     "Tooltip": "DataLock v.0.0.0.0",
-    "MRicerca": "Tools AIMODS"
+    "MRicerca": "Tools AIMODS",
+    "LinkR": null,
+    "Descrizione": "Addio Backup PC , benvenuta DataLock!"
   },
   {
     "Nome": "AIMODS-Bypass",
@@ -1093,11 +1101,11 @@
   {
     "Nome": "Calibre",
     "Link": "https://devuploads.com/xd63w3pdjnl6",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/Calibre.png",
     "Sezione": "Tools AIMODS",
-    "Descrizione": "Calibre 7.20",
-    "Tooltip": null,
+    "Descrizione": "Calibre cos'è\nCalibre è un software open source gratuito per la gestione degli ebook. È estremamente utile per chi possiede una vasta collezione di libri digitali e desidera organizzarli, convertirli in vari formati, e trasferirli su diversi dispositivi di lettura.",
+    "Tooltip": "",
     "MRicerca": "Calibre"
   },
   {
@@ -1113,7 +1121,7 @@
   {
     "Nome": "Clipboard",
     "Link": "https://devuploads.com/h2e9cktq8fde",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Tool-AIMODS/Clipboard.jpg",
     "Sezione": "Tools AIMODS",
     "Descrizione": "AIMods Advanced Clipboard instaura una connessione client-server con tutti i dispositivi connessi alla stessa rete privata. Sfruttando tale meccanismo, un server (un dispositivo) invia ai client (tutti gli altri dispositivi) ciò che è stato copiato (o la nota creata). In questo modo, le note, il testo e le immagini copiate sul PC in camera, verranno copiati istantaneamente anche sul PC in sala e viceversa.",
