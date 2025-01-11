@@ -1169,5 +1169,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "Tenorshare 4DDiG",
+    "Link": "https://devuploads.com/x125ppc6rxzf",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/Tenorshare%204DDIG.png",
+    "Sezione": "Gestione/Pulizia/Personalizzazione PC",
+    "Descrizione": "",
+    "Tooltip": "Tenorshare 4DDiG v10.2.7.11",
+    "MRicerca": "4ddig"
   }
 ]
