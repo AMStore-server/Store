@@ -25,7 +25,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/Reader.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Reader DC",
-    "MRicerca": "Adobe"
+    "MRicerca": "Adobe",
+    "LinkR": null,
+    "Descrizione": "Adobe Reader DC (Document Cloud) è un software sviluppato da Adobe Systems, progettato per visualizzare, stampare e annotare documenti in formato PDF (Portable Document Format). È uno degli strumenti più popolari e ampiamente utilizzati per gestire file PDF."
   },
   {
     "Nome": "Adobe Illustrator",
@@ -44,8 +46,8 @@
     "Sezione": "Adobe",
     "Tooltip": "Adobe Premiere Pro 2024 v24.4.1.002",
     "MRicerca": "Adobe",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "Adobe Premiere Pro è un software di montaggio video professionale sviluppato da Adobe Systems. È ampiamente utilizzato nell'industria cinematografica e televisiva per la sua potenza e versatilità."
   },
   {
     "Nome": "Adobe InDesign",
@@ -480,7 +482,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Editing/aquasoftstager.jpg",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "AquaSoft Stages v15.2.05",
-    "MRicerca": "Gestione Foto/Video e Editing"
+    "MRicerca": "Gestione Foto/Video e Editing",
+    "LinkR": null,
+    "Descrizione": "AquaSoft Stages è un software di creazione di presentazioni multimediali e slideshow, progettato per aiutare gli utenti a combinare immagini, video, musica e testi in maniera creativa e coinvolgente."
   },
   {
     "Nome": "EaseUS Video Editor",
@@ -593,8 +597,8 @@
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Ashampoo Driver Updater 1.6.2",
     "MRicerca": "Gestione/Pulizia/Personalizzazione PC",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "Ashampoo Driver Updater è un software utile per la gestione dei driver del computer, progettato per semplificare il processo di aggiornamento e ottimizzazione dei driver."
   },
   {
     "Nome": "Revo Unistaller",
@@ -818,7 +822,7 @@
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Assassins%20Creed%20Syndacate.png",
     "Sezione": "Giochi",
-    "Descrizione": "",
+    "Descrizione": "Assassin's Creed Syndicate è un videogioco d'azione-avventura sviluppato da Ubisoft e pubblicato nel 2015. Fa parte della famosa serie Assassin's Creed e si distingue per le sue ambientazioni storiche, la narrativa avvincente e il gameplay dinamico.",
     "Tooltip": "",
     "MRicerca": "Assassin's Creed Syndacate"
   },
@@ -828,7 +832,7 @@
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/Assassins%20Creed%20Mirage.png",
     "Sezione": "Giochi",
-    "Descrizione": "",
+    "Descrizione": "Assassin's Creed Mirage è un gioco d'azione e avventura sviluppato da Ubisoft Bordeaux e pubblicato da Ubisoft. Rappresenta il tredicesimo capitolo principale della serie Assassin's Creed ed è stato pubblicato nel 2023.",
     "Tooltip": "",
     "MRicerca": "Assassin's Creed Mirage"
   },
@@ -855,10 +859,10 @@
   {
     "Nome": "Arcade Paradise: Digital Deluxe Edition",
     "Link": "https://devuploads.com/pf7mkynncj29",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/ArcadeParadise.png",
     "Sezione": "Giochi",
-    "Descrizione": null,
+    "Descrizione": "Arcade Paradise: Digital Deluxe Edition è un'entusiasmante miscela di gioco arcade retrò e simulazione di gestione della luce, ambientata nel vivace mondo degli anni '90.",
     "Tooltip": "Arcade Paradise: Digital Deluxe Edition, v1.3.20230515.143309 + 8 DLCs + Bonus OST",
     "MRicerca": "Giochi"
   },
@@ -983,10 +987,10 @@
   {
     "Nome": "Aiseesoft Screen Recorder",
     "Link": "https://devuploads.com/y73ye913clb9",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Registratore%20Audio-Video/Aiseesoft%20Screen%20Recorder.png",
     "Sezione": "Registratore Audio-Video",
-    "Descrizione": null,
+    "Descrizione": "Aiseesoft Screen Recorder è un software di registrazione dello schermo progettato per catturare video e audio dal computer. È particolarmente utile per diverse applicazioni, come la creazione di tutorial video, la registrazione di giochi, o la cattura di videoconferenze.",
     "Tooltip": "Aiseesoft Screen Recorder",
     "MRicerca": "Aiseesoft Screen Recorder"
   },
@@ -1013,10 +1017,10 @@
   {
     "Nome": "Aiseesoft iPhone Unlocker",
     "Link": "https://devuploads.com/vav7fw3xkzpd",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Sblocco%20iPhone/Aiseesoft%20iPhone%20Unlocker.png",
     "Sezione": "Sblocco iPhone",
-    "Descrizione": null,
+    "Descrizione": "Aiseesoft iPhone Unlocker è un software progettato per aiutare gli utenti a sbloccare i dispositivi Apple, come iPhone e iPad, in diverse situazioni.",
     "Tooltip": "Aiseesoft iPhone Unlocker v2.0.88",
     "MRicerca": "Unlocker"
   },
@@ -1059,8 +1063,8 @@
     "Sezione": "Tools AIMODS",
     "Tooltip": "AIMODS-Bypass v.0.0.0.0",
     "MRicerca": "Tools AIMODS",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "Con questa nuova app, potete passare alla versione IoT ENT LTSC mantenendo le vostre applicazioni."
   },
   {
     "Nome": "Assistente-Aggiornamento-Win11",
