@@ -139,7 +139,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/mediamonkey.jpg",
     "Sezione": "Altro",
     "Tooltip": "Media Monkey Gold v2024.0.0.3019",
-    "MRicerca": "Altro"
+    "MRicerca": "Altro",
+    "LinkR": null,
+    "Descrizione": "MediaMonkey è un software di gestione e organizzazione dei media progettato per collezionisti seri di musica e video."
   },
   {
     "Nome": "DaVinci",
@@ -167,7 +169,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/mountainduck.jpg",
     "Sezione": "Altro",
     "Tooltip": "Mountain Duck v4.16.0.22153",
-    "MRicerca": "Altro"
+    "MRicerca": "Altro",
+    "LinkR": null,
+    "Descrizione": "Mountain Duck è un software sviluppato dagli stessi creatori di Cyberduck. Questo strumento permette di montare server e storage cloud come unità locali nel Finder su macOS e nel File Explorer su Windows."
   },
   {
     "Nome": "NetSpot",
@@ -175,7 +179,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/netspot.jpg",
     "Sezione": "Altro",
     "Tooltip": "NetSpot Multilingual v3.1.0.478",
-    "MRicerca": "Altro"
+    "MRicerca": "Altro",
+    "LinkR": null,
+    "Descrizione": "NetSpot è un'applicazione professionale multipiattaforma progettata per la pianificazione delle reti WiFi, le site survey wireless, l'analisi del WiFi e la risoluzione dei problemi di rete."
   },
   {
     "Nome": "Ekahau",
@@ -203,7 +209,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/lightburn.jpg",
     "Sezione": "Altro",
     "Tooltip": "LightBurn v1.6.03",
-    "MRicerca": "Altro"
+    "MRicerca": "Altro",
+    "LinkR": null,
+    "Descrizione": "LightBurn è un software di progettazione e controllo per laser cutter e engravers"
   },
   {
     "Nome": "Tenorshare ReiBoot for Android",
@@ -231,7 +239,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Antivirus/Malwerbytes.jpg",
     "Sezione": "Antivirus",
     "Tooltip": "Malwerbytes",
-    "MRicerca": "Antivirus"
+    "MRicerca": "Antivirus",
+    "LinkR": null,
+    "Descrizione": "Malwarebytes è un software di sicurezza informatica progettato per rilevare e rimuovere malware, spyware, ransomware, adware e altre minacce pericolose."
   },
   {
     "Nome": "Kaspersky",
@@ -429,7 +439,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/musicfab.png",
     "Sezione": "Downloader",
     "Tooltip": "MusicFab v1.0.4.3",
-    "MRicerca": "Downloader"
+    "MRicerca": "Downloader",
+    "LinkR": null,
+    "Descrizione": "MusicFab è un software sviluppato da DVDFab che consente di scaricare musica da vari servizi di streaming come Amazon Music, Spotify, Apple Music e altri."
   },
   {
     "Nome": "SpotifyDownloader",
@@ -668,10 +680,10 @@
   {
     "Nome": "Macrium Reflect X",
     "Link": "https://devuploads.com/kmk5jsx8v7tu",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/GestioneHDD-SSD/Macrium%20Reflect.png",
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
-    "Descrizione": null,
+    "Descrizione": "Macrium Reflect X è un software di backup e ripristino avanzato sviluppato da Macrium Software. È progettato per proteggere i dati e facilitare il ripristino dei sistemi in modo rapido ed efficiente.",
     "Tooltip": "Macrium Reflect X Workstation v10.0.8406",
     "MRicerca": "macrium"
   },
@@ -711,7 +723,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/spiderman.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Marvels Spider-Man Remastered V1.812.1.0 + DLC + Correzione SSE",
-    "MRicerca": "Giochi"
+    "MRicerca": "Giochi",
+    "LinkR": null,
+    "Descrizione": "Marvel's Spider-Man Remastered è una versione migliorata del gioco originale sviluppato da Insomniac Games e pubblicato da Sony Interactive Entertainment. Questa versione è stata ottimizzata per le console PS5 e PC, offrendo grafica migliorata, nuove funzionalità immersive e un'esperienza di gioco più fluida."
   },
   {
     "Nome": "Life is Strange Before The Storm",
@@ -1060,10 +1074,10 @@
   {
     "Nome": "Movavi Screen Recorder",
     "Link": "https://devuploads.com/klsx2cu9t20q",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Registratore%20Audio-Video/Movavi%20Screen%20Recorder.png",
     "Sezione": "Registratore Audio-Video",
-    "Descrizione": null,
+    "Descrizione": "Movavi Screen Recorder è un software di registrazione dello schermo progettato per catturare video e audio dal tuo schermo PC o Mac.",
     "Tooltip": "Movavi Screen Recorder",
     "MRicerca": "Movavi Screen Recorder"
   },
@@ -1196,7 +1210,7 @@
   {
     "Nome": "Media Convert",
     "Link": "https://devuploads.com/odjp3s5zemw7",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/MediaConvert.png",
     "Sezione": "Tools AIMODS",
     "Descrizione": "Il nuovo convertitore video e audio targato AIMODS è un potente strumento progettato per semplificare la gestione dei tuoi file multimediali. Supporta una vasta gamma di formati, tra cui MP4, AVI, MKV, MXF per video, e WAV, MP3, FLAC, AAC per audio, garantendo la massima versatilità.",
@@ -1246,5 +1260,15 @@
     "Sezione": "Xara",
     "Tooltip": "Xara Designer Pro Plus v24.3.0.70123",
     "MRicerca": "Xara"
+  },
+  {
+    "Nome": "OfficeSuite",
+    "Link": "https://devuploads.com/bix9b7odmekc",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Office/OfficeSuite.jpg",
+    "Sezione": "Office",
+    "Descrizione": "OfficeSuite è una soluzione completa per ufficio sviluppata da MobiSystems, che include moduli per la modifica di documenti, presentazioni e fogli di calcolo, oltre a un client di posta integrato e un editor PDF avanzato-",
+    "Tooltip": "OfficeSuite Premium v8.90.57422",
+    "MRicerca": "Office"
   }
 ]
