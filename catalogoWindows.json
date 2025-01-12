@@ -121,7 +121,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Altro/Intellij.jpg",
     "Sezione": "Altro",
     "Tooltip": "JetBrains Intellij IDEA Ultimate v2024.1",
-    "MRicerca": "Altro"
+    "MRicerca": "Altro",
+    "LinkR": null,
+    "Descrizione": "IntelliJ IDEA è un Integrated Development Environment (IDE) sviluppato da JetBrains, progettato principalmente per lo sviluppo in Java e Kotlin. È noto per la sua potenza, flessibilità e strumenti avanzati che migliorano la produttività dei programmatori."
   },
   {
     "Nome": "Wise Care",
@@ -374,7 +376,10 @@
     "Link": "https://devuploads.com/prhag6vpiuqj",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/IDM.jpg",
     "Sezione": "Downloader",
-    "Tooltip": "IDM v6.42 Portable"
+    "Tooltip": "IDM v6.42 Portable",
+    "LinkR": null,
+    "Descrizione": "IDM Portable è una versione portatile di Internet Download Manager (IDM), un acceleratore di download progettato per aumentare la velocità di download fino a otto volte, riprendere i download interrotti e pianificare i download. La versione portatile consente di utilizzare IDM su diversi dispositivi senza necessità di installazione permanente.",
+    "MRicerca": null
   },
   {
     "Nome": "iTubeGo Musify",
@@ -714,7 +719,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/horizonforbiddenwest.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Horizon Forbidden West",
-    "MRicerca": "Giochi"
+    "MRicerca": "Giochi",
+    "LinkR": null,
+    "Descrizione": "Horizon Forbidden West è un videogioco action RPG sviluppato da Guerrilla Games e pubblicato da Sony Interactive Entertainment. È il sequel di Horizon Zero Dawn e è ambientato in un mondo post-apocalittico. Il gioco segue le avventure di Aloy, una cercatrice che cerca di scoprire i segreti che minacciano la Terra e di riportare equilibrio e ordine nel mondo."
   },
   {
     "Nome": "Football Manager 2023",
@@ -940,7 +947,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Iobit/advancesystem.jpg",
     "Sezione": "IObit",
     "Tooltip": "Advanced SystemCare Pro v17.6.0.322",
-    "MRicerca": "IObit"
+    "MRicerca": "IObit",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "IObit Driver Booster",
@@ -948,7 +957,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Iobit/driverbooster.jpg",
     "Sezione": "IObit",
     "Tooltip": "Iobit Driver Booster Pro v12.0.0.308",
-    "MRicerca": "IObit"
+    "MRicerca": "IObit",
+    "LinkR": null,
+    "Descrizione": "IObit Driver Booster è un software progettato per aiutarti a mantenere i driver del tuo PC aggiornati in modo semplice e rapido."
   },
   {
     "Nome": "IObit Unistaller",
@@ -966,7 +977,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Iobit/smartdefrag.jpg",
     "Sezione": "IObit",
     "Tooltip": "IObit Smart Defrag Pro v10.1.0.419",
-    "MRicerca": null
+    "MRicerca": "",
+    "LinkR": null,
+    "Descrizione": "IObit Smart Defrag è un software progettato per deframmentare i dischi rigidi del tuo PC, migliorando così le prestazioni generali del sistema."
   },
   {
     "Nome": "IObit Software Updater",
@@ -974,7 +987,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Iobit/softwareupdater.jpg",
     "Sezione": "IObit",
     "Tooltip": "IObit Software Updater Pro v7.1.121",
-    "MRicerca": "IObit"
+    "MRicerca": "IObit",
+    "LinkR": null,
+    "Descrizione": "IObit Software Updater è un software progettato per mantenere tutti i programmi installati sul tuo PC aggiornati in modo automatico."
   },
   {
     "Nome": "IObit Malware Fighter",
@@ -982,7 +997,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Iobit/IObit%20Malware%20Fighter%20Pro.png",
     "Sezione": "IObit",
     "Tooltip": "IObit Malware Fighter Pro v11.4.0.1360",
-    "MRicerca": "IObit"
+    "MRicerca": "IObit",
+    "LinkR": null,
+    "Descrizione": "IObit Malware Fighter è un software di sicurezza progettato per proteggere il tuo PC da vari tipi di malware, tra cui virus, ransomware, spyware, trojan, adware e worm."
   },
   {
     "Nome": "Spotify",
