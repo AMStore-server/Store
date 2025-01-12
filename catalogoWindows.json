@@ -1070,6 +1070,26 @@
     "Descrizione": "Spotube è un'app open source che combina Spotify e YouTube Music per offrire un'esperienza musicale gratuita, senza pubblicità"
   },
   {
+    "Nome": "OfficeSuite",
+    "Link": "https://devuploads.com/bix9b7odmekc",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Office/OfficeSuite.jpg",
+    "Sezione": "Office",
+    "Descrizione": "OfficeSuite è una soluzione completa per ufficio sviluppata da MobiSystems, che include moduli per la modifica di documenti, presentazioni e fogli di calcolo, oltre a un client di posta integrato e un editor PDF avanzato.",
+    "Tooltip": "OfficeSuite Premium v8.90.57422",
+    "MRicerca": "Office"
+  },
+  {
+    "Nome": "PassFab for Excel",
+    "Link": "https://devuploads.com/hukvaf6f0rvq",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Office/passfabexcel.jpg",
+    "Sezione": "Office",
+    "Descrizione": "PassFab for Excel è uno strumento professionale per recuperare e rimuovere le password di file Excel.",
+    "Tooltip": "PassFab for Excel v8.5.11",
+    "MRicerca": "Office"
+  },
+  {
     "Nome": "Aiseesoft Screen Recorder",
     "Link": "https://devuploads.com/y73ye913clb9",
     "LinkR": "",
@@ -1278,25 +1298,5 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
-  },
-  {
-    "Nome": "OfficeSuite",
-    "Link": "https://devuploads.com/bix9b7odmekc",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Office/OfficeSuite.jpg",
-    "Sezione": "Office",
-    "Descrizione": "OfficeSuite è una soluzione completa per ufficio sviluppata da MobiSystems, che include moduli per la modifica di documenti, presentazioni e fogli di calcolo, oltre a un client di posta integrato e un editor PDF avanzato.",
-    "Tooltip": "OfficeSuite Premium v8.90.57422",
-    "MRicerca": "Office"
-  },
-  {
-    "Nome": "PassFab for Excel",
-    "Link": "https://devuploads.com/hukvaf6f0rvq",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Office/passfabexcel.jpg",
-    "Sezione": "Office",
-    "Descrizione": "PassFab for Excel è uno strumento professionale per recuperare e rimuovere le password di file Excel.",
-    "Tooltip": "PassFab for Excel v8.5.11",
-    "MRicerca": "Office"
   }
 ]
