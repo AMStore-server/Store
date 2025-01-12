@@ -26,7 +26,7 @@
     "Sezione": "Adobe",
     "Tooltip": "Adobe Reader DC",
     "MRicerca": "Adobe",
-    "LinkR": null,
+    "LinkR": "",
     "Descrizione": "Adobe Reader DC (Document Cloud) è un software sviluppato da Adobe Systems, progettato per visualizzare, stampare e annotare documenti in formato PDF (Portable Document Format). È uno degli strumenti più popolari e ampiamente utilizzati per gestire file PDF."
   },
   {
@@ -219,7 +219,7 @@
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Altro/FoxitPDF.png",
     "Sezione": "Altro",
-    "Descrizione": "",
+    "Descrizione": "Foxit PDF Editor Pro è un software avanzato per la modifica di documenti PDF, sviluppato da Foxit Software. È progettato per offrire capacità di modifica PDF professionali, inclusa la possibilità di aggiungere testo, commenti, immagini, e di firmare elettronicamente i documenti.",
     "Tooltip": "Foxit PDF Editor Pro",
     "MRicerca": "foxit"
   },
@@ -265,7 +265,7 @@
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Antivirus/ESET%20Endpoint%20Securityf.png",
     "Sezione": "Antivirus",
-    "Descrizione": "",
+    "Descrizione": "ESET Endpoint Security è una soluzione di protezione completa per endpoint, progettata per proteggere i dispositivi aziendali da una vasta gamma di minacce informatiche. È una piattaforma Endpoint Protection Platform (EPP) che offre protezione multilivello, rilevamento e correzione di attività dannose.",
     "Tooltip": "ESET Endpoint Security v12.0.2038.0",
     "MRicerca": "eset"
   },
@@ -345,7 +345,7 @@
     "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/default/Freemake.png",
     "Sezione": "Convertitore",
-    "Descrizione": "Freemake Video Converter",
+    "Descrizione": "Freemake Video Converter è un software freemium sviluppato da Ellora Assets Corporation. È progettato per convertire i file video in vari formati, masterizzare video su DVD e creare presentazioni fotografiche.",
     "Tooltip": "",
     "MRicerca": "Frremake"
   },
@@ -512,7 +512,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Editing/facerig.jpg",
     "Sezione": "Gestione Foto/Video e Editing",
     "Tooltip": "Face Rig",
-    "MRicerca": "Gestione Foto/Video e Editing"
+    "MRicerca": "Gestione Foto/Video e Editing",
+    "LinkR": null,
+    "Descrizione": "FaceRig è un software che simula i movimenti faciali di vari personaggi attraverso un dispositivo di cattura video. È stato successivamente sostituito da Animaze by FaceRig, che offre funzionalità più avanzate e una maggiore personalizzazione."
   },
   {
     "Nome": "CyberLink PowerDirector",
@@ -581,8 +583,8 @@
     "Sezione": "Gestione/Pulizia/Personalizzazione PC",
     "Tooltip": "Glary Utilities Pro v6.14.0.18",
     "MRicerca": "glary",
-    "LinkR": null,
-    "Descrizione": null
+    "LinkR": "",
+    "Descrizione": "Glary Utilities Pro è un software di utilità completo progettato per ottimizzare, pulire e proteggere il tuo PC. Offre oltre 20 strumenti per migliorare le prestazioni del sistema, mantenere la privacy e risolvere problemi comuni."
   },
   {
     "Nome": "Driver Easy",
@@ -686,7 +688,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Games/gtaV.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Grand Theft Auto V",
-    "MRicerca": "Giochi"
+    "MRicerca": "Giochi",
+    "LinkR": null,
+    "Descrizione": "Grand Theft Auto V (GTA V) è un videogioco d'azione-avventura sviluppato da Rockstar North e pubblicato da Rockstar Games. È il quinto capitolo principale della serie Grand Theft Auto ed è ambientato nello stato immaginario di San Andreas, che include la città di Los Santos, ispirata a Los Angeles."
   },
   {
     "Nome": "Marvels Spider-Man Remastered",
@@ -718,7 +722,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/footballmanager2023.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Football Manager 2023",
-    "MRicerca": "Giochi"
+    "MRicerca": "Giochi",
+    "LinkR": null,
+    "Descrizione": "Football Manager 2023 è il più recente titolo della serie di simulazione calcistica sviluppata da Sports Interactive e pubblicato da SEGA. Questo gioco permette agli utenti di assumere il ruolo di un allenatore di calcio, gestendo squadre, tattiche, trasferimenti di giocatori e molto altro."
   },
   {
     "Nome": "Hearts Of Iron IV",
@@ -726,7 +732,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/heartsofiron.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Hearts Of Iron IV v1.14.6 + all DLC",
-    "MRicerca": "Giochi"
+    "MRicerca": "Giochi",
+    "LinkR": null,
+    "Descrizione": "Hearts of Iron IV è un videogioco di strategia in tempo reale ambientato durante la Seconda Guerra Mondiale, sviluppato da Paradox Interactive. Il gioco permette ai giocatori di assumere il controllo di qualsiasi nazione indipendente del mondo negli anni 1936 o 1939 e guidarla attraverso la guerra."
   },
   {
     "Nome": "Supermarket Simulator",
@@ -744,7 +752,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/eurotrucksimulator.jpg",
     "Sezione": "Giochi",
     "Tooltip": "Euro Truck Simulator 2 v1.50.1.0s + 87 DLCs",
-    "MRicerca": "Giochi"
+    "MRicerca": "Giochi",
+    "LinkR": null,
+    "Descrizione": "Euro Truck Simulator 2 è un videogioco di simulazione di camion sviluppato da SCS Software e pubblicato da Euro Truck Simulator 2. Il gioco ti permette di viaggiare attraverso l'Europa come re della strada, consegnando merci su lunghe distanze e esplorando numerose città e paesi."
   },
   {
     "Nome": "Far Cry 5",
@@ -752,7 +762,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/farcry5.png",
     "Sezione": "Giochi",
     "Tooltip": "Far Cry 5 v1.011 + 5 DLCs",
-    "MRicerca": "Giochi"
+    "MRicerca": "Giochi",
+    "LinkR": null,
+    "Descrizione": "Far Cry 5 è un videogioco d'azione-avventura sviluppato da Ubisoft Montreal e pubblicato da Ubisoft. È il quinto capitolo principale della serie Far Cry e è ambientato nella fittizia contea di Hope County, Montana1. Il gioco ruota attorno alla lotta contro una setta religiosa estremista chiamata Eden's Gate, guidata da Joseph Seed, che si è insediata abusivamente nella regione."
   },
   {
     "Nome": "DIRT 5 Year One Edition",
@@ -859,7 +871,7 @@
   {
     "Nome": "Fernbus Simulator",
     "Link": "https://devuploads.com/lfjecc8xrabh",
-    "LinkR": null,
+    "LinkR": "",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Games/fernbus.png",
     "Sezione": "Giochi",
     "Descrizione": "Fernbus Coach Simulator è il primo simulatore dei popolari autobus interurbani. Grazie alla cooperazione con FlixBus, Fernbus Coach Simulator fa immedesimare il giocatore nella vita quotidiana di un autista di autobus sulle Autobahn tedesche, autostrade e più di 40 città estremamente dettagliate.",
@@ -918,7 +930,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/AI/ai.jpg",
     "Sezione": "IA",
     "Tooltip": "Generatore Immagini AIMODS",
-    "MRicerca": "IA"
+    "MRicerca": "IA",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "IObit SystemCare",
@@ -1058,7 +1072,9 @@
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Tool-AIMODS/FixLicense.jpg",
     "Sezione": "Tools AIMODS",
     "Tooltip": "Fix Licenza",
-    "MRicerca": "Tools AIMODS"
+    "MRicerca": "Tools AIMODS",
+    "LinkR": null,
+    "Descrizione": null
   },
   {
     "Nome": "RadioWindows",
