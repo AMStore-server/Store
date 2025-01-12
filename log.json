@@ -4028,5 +4028,15 @@
     "MessaggioAPP": "Errore: An error occurred trying to start process '{\r\n  \"x64\": \"https://devuploads.com/6sen4hqel5nv\",\r\n  \"x32\": \"https://devuploads.com/fwy9ig3ltqk7\"\r\n}' with working directory 'C:\\Users\\momo\\Downloads'. The system cannot find the file specified.",
     "Timestamp": "12/01/2025 11:34:56",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: The SSL connection could not be established, see inner exception.",
+    "Timestamp": "12/01/2025 23:23:26",
+    "Username": "UTENTE"
   }
 ]
