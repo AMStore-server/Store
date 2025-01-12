@@ -1070,16 +1070,6 @@
     "Descrizione": "Spotube è un'app open source che combina Spotify e YouTube Music per offrire un'esperienza musicale gratuita, senza pubblicità"
   },
   {
-    "Nome": "Office Premium",
-    "Link": "https://devuploads.com/bix9b7odmekc",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Office/OfficeSuite.jpg",
-    "Sezione": "Office",
-    "Tooltip": "OfficeSuite Premium v8.90.57422",
-    "MRicerca": "Office",
-    "LinkR": null,
-    "Descrizione": "OfficeSuite è una soluzione completa per ufficio sviluppata da MobiSystems, che include moduli per la modifica di documenti, presentazioni e fogli di calcolo, oltre a un client di posta integrato e un editor PDF avanzato."
-  },
-  {
     "Nome": "PassFab",
     "Link": "https://devuploads.com/hukvaf6f0rvq",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Office/passfabexcel.jpg",
