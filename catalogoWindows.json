@@ -1,7 +1,10 @@
 [
   {
     "Nome": "Adobe Acrobat Pro",
-    "Link": "https://devuploads.com/6sen4hqel5nv",
+    "Link": {
+      "x64": "https://devuploads.com/6sen4hqel5nv",
+      "x32": "https://devuploads.com/fwy9ig3ltqk7"
+    },
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Adobe/acrobatpro.jpg",
     "Sezione": "Adobe",
     "Tooltip": "Adobe Acrobat Pro",
