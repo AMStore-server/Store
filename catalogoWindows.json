@@ -1301,5 +1301,15 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
+  },
+  {
+    "Nome": "Moyea Downloader",
+    "Link": "https://devuploads.com/tf2nsmc38axn",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Downloader/Moyea%20Downloader.png",
+    "Sezione": "Downloader",
+    "Descrizione": null,
+    "Tooltip": "Moyea Downloader v19.0.0.2",
+    "MRicerca": "moyea"
   }
 ]
