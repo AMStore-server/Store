@@ -1311,5 +1311,15 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
+  },
+  {
+    "Nome": "Nitro PDF Pro Enterprise",
+    "Link": "https://devuploads.com/hwv3m8wh9tyw",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/PDF/Nitro.png",
+    "Sezione": "PDF",
+    "Descrizione": null,
+    "Tooltip": "Nitro PDF Pro Enterprise v14.34.2.0",
+    "MRicerca": "nitro"
   }
 ]
