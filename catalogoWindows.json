@@ -233,16 +233,6 @@
     "MRicerca": "Tenorshare ReiBoot"
   },
   {
-    "Nome": "Foxit PDF Editor Pro",
-    "Link": "https://devuploads.com/068e5gdcd7tn",
-    "LinkR": "",
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Altro/FoxitPDF.png",
-    "Sezione": "PDF",
-    "Descrizione": "Foxit PDF Editor Pro è un software avanzato per la modifica di documenti PDF, sviluppato da Foxit Software. È progettato per offrire capacità di modifica PDF professionali, inclusa la possibilità di aggiungere testo, commenti, immagini, e di firmare elettronicamente i documenti.",
-    "Tooltip": "Foxit PDF Editor Pro",
-    "MRicerca": "foxit"
-  },
-  {
     "Nome": "Malwerbytes",
     "Link": "https://devuploads.com/6r8q9eo2jp3d",
     "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/Antivirus/Malwerbytes.jpg",
@@ -1103,6 +1093,26 @@
     "MRicerca": "Office"
   },
   {
+    "Nome": "Foxit PDF Editor Pro",
+    "Link": "https://devuploads.com/068e5gdcd7tn",
+    "LinkR": "",
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/refs/heads/main/Immagini/Altro/FoxitPDF.png",
+    "Sezione": "PDF",
+    "Descrizione": "Foxit PDF Editor Pro è un software avanzato per la modifica di documenti PDF, sviluppato da Foxit Software. È progettato per offrire capacità di modifica PDF professionali, inclusa la possibilità di aggiungere testo, commenti, immagini, e di firmare elettronicamente i documenti.",
+    "Tooltip": "Foxit PDF Editor Pro",
+    "MRicerca": "foxit"
+  },
+  {
+    "Nome": "Nitro PDF Pro Enterprise",
+    "Link": "https://devuploads.com/hwv3m8wh9tyw",
+    "LinkR": null,
+    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/PDF/Nitro.png",
+    "Sezione": "PDF",
+    "Descrizione": null,
+    "Tooltip": "Nitro PDF Pro Enterprise v14.34.2.0",
+    "MRicerca": "nitro"
+  },
+  {
     "Nome": "Aiseesoft Screen Recorder",
     "Link": "https://devuploads.com/y73ye913clb9",
     "LinkR": "",
@@ -1311,15 +1321,5 @@
     "MRicerca": "Xara",
     "LinkR": null,
     "Descrizione": "Xara Designer Pro+ è un software di progettazione versatile sviluppato da Xara, che combina desktop publishing, web design, editing foto e grafica in un'unica piattaforma"
-  },
-  {
-    "Nome": "Nitro PDF Pro Enterprise",
-    "Link": "https://devuploads.com/hwv3m8wh9tyw",
-    "LinkR": null,
-    "ImmagineUrl": "https://raw.githubusercontent.com/AMStore-server/Store/main/Immagini/PDF/Nitro.png",
-    "Sezione": "PDF",
-    "Descrizione": null,
-    "Tooltip": "Nitro PDF Pro Enterprise v14.34.2.0",
-    "MRicerca": "nitro"
   }
 ]
