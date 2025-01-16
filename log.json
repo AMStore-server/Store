@@ -4128,5 +4128,15 @@
     "MessaggioAPP": "Errore: Impossibile ottenere l'URL del catalogo: The request was canceled due to the configured HttpClient.Timeout of 100 seconds elapsing.",
     "Timestamp": "14/01/2025 19:47:32",
     "Username": "UTENTE"
+  },
+  {
+    "LogRegisterAccount": "",
+    "MessaggioRegisterAccount": "",
+    "LogLogInAccount": "",
+    "MessaggioLogInAccount": "",
+    "LogAPP": "TRUE",
+    "MessaggioAPP": "Errore: Response status code does not indicate success: 404 (Not Found).",
+    "Timestamp": "16/01/2025 14:07:27",
+    "Username": "UTENTE"
   }
 ]
